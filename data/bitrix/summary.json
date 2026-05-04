@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-05-04T19:46:46",
+  "profile": {
+    "id": "102",
+    "admin": true,
+    "name": "Рем Андреевич",
+    "timezone": "Europe/Moscow"
+  },
+  "oceanGroup": [
+    {
+      "ID": "62",
+      "SITE_ID": "s1",
+      "NAME": "ОКЕАН",
+      "DESCRIPTION": "",
+      "DATE_CREATE": "2023-03-22T12:58:41+03:00",
+      "DATE_UPDATE": "2023-03-22T12:58:41+03:00",
+      "ACTIVE": "Y",
+      "VISIBLE": "N",
+      "OPENED": "N",
+      "CLOSED": "N",
+      "SUBJECT_ID": "1",
+      "OWNER_ID": "1",
+      "KEYWORDS": "",
+      "NUMBER_OF_MEMBERS": "5",
+      "DATE_ACTIVITY": "2025-02-19T23:25:31+03:00",
+      "SUBJECT_NAME": "Рабочие группы",
+      "PROJECT": "N",
+      "IMAGE": "https://cdn-ru.bitrix24.ru/b24408890/socialnetwork/219/219ec5600590736b626901632b1b629c/logo_big_blue.png",
+      "IS_EXTRANET": "N"
+    }
+  ],
+  "storage": [
+    {
+      "ID": "462",
+      "NAME": "ОКЕАН",
+      "CODE": null,
+      "MODULE_ID": "disk",
+      "ENTITY_TYPE": "group",
+      "ENTITY_ID": "62",
+      "ROOT_OBJECT_ID": "10518"
+    }
+  ],
+  "rootItemsCount": 38,
+  "indexedFolderItemsCount": 24,
+  "groupTasksCount": 7,
+  "searchTaskHitsCount": 7,
+  "chatDigestCount": 50
+}

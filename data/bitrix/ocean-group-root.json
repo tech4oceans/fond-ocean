@@ -1,0 +1,344 @@
+[
+  {
+    "ID": "11018",
+    "NAME": "FEEDBACK",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2023-03-26T13:57:25+03:00",
+    "UPDATE_TIME": "2023-03-26T14:23:16+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/FEEDBACK"
+  },
+  {
+    "ID": "11020",
+    "NAME": "ТОП 10 САЙТОВ ПРО ОКЕАН",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2023-03-26T13:57:39+03:00",
+    "UPDATE_TIME": "2023-03-26T14:16:06+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ТОП 10 САЙТОВ ПРО ОКЕАН"
+  },
+  {
+    "ID": "40734",
+    "NAME": "УСТАВНЫЕ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-04-23T10:50:13+03:00",
+    "UPDATE_TIME": "2024-04-23T10:55:08+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/УСТАВНЫЕ"
+  },
+  {
+    "ID": "40742",
+    "NAME": "АССОЦИАЦИИ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-04-23T10:52:47+03:00",
+    "UPDATE_TIME": "2024-04-23T10:53:00+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/АССОЦИАЦИИ"
+  },
+  {
+    "ID": "41052",
+    "NAME": "УПОРЯДОЧИВАНИЕ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-04-25T12:39:16+03:00",
+    "UPDATE_TIME": "2024-09-12T17:00:10+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/УПОРЯДОЧИВАНИЕ"
+  },
+  {
+    "ID": "41828",
+    "NAME": "ШОС",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-04-27T20:59:08+03:00",
+    "UPDATE_TIME": "2024-07-18T12:49:40+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ШОС"
+  },
+  {
+    "ID": "41830",
+    "NAME": "ЕАЭС",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-04-27T20:59:13+03:00",
+    "UPDATE_TIME": "2024-07-18T13:06:23+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ЕАЭС"
+  },
+  {
+    "ID": "41832",
+    "NAME": "БРИКС",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-04-27T20:59:26+03:00",
+    "UPDATE_TIME": "2024-07-18T13:09:56+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/БРИКС"
+  },
+  {
+    "ID": "43414",
+    "NAME": "СУДОХОДНЫЕ КАНАЛЫ В МИРЕ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-01T12:18:38+03:00",
+    "UPDATE_TIME": "2024-05-01T12:20:43+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/СУДОХОДНЫЕ КАНАЛЫ В МИРЕ"
+  },
+  {
+    "ID": "43520",
+    "NAME": "ПОРТЫ МИРА",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-01T18:52:43+03:00",
+    "UPDATE_TIME": "2024-05-01T18:52:50+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПОРТЫ МИРА"
+  },
+  {
+    "ID": "45428",
+    "NAME": "ООН",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-09T09:20:35+03:00",
+    "UPDATE_TIME": "2024-07-18T12:32:40+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ООН"
+  },
+  {
+    "ID": "45430",
+    "NAME": "СНГ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-09T09:20:42+03:00",
+    "UPDATE_TIME": "2024-07-18T12:52:41+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/СНГ"
+  },
+  {
+    "ID": "47714",
+    "NAME": "ВЫСТАВКИ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-19T10:46:29+03:00",
+    "UPDATE_TIME": "2024-05-19T10:46:47+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ВЫСТАВКИ"
+  },
+  {
+    "ID": "47718",
+    "NAME": "НЕЙТРАЛЬНЫЕ ВОДЫ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-19T10:47:01+03:00",
+    "UPDATE_TIME": "2024-05-19T10:47:19+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/НЕЙТРАЛЬНЫЕ ВОДЫ"
+  },
+  {
+    "ID": "47858",
+    "NAME": "СИСТЕДИНГ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-19T13:24:40+03:00",
+    "UPDATE_TIME": "2024-05-25T15:26:35+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/СИСТЕДИНГ"
+  },
+  {
+    "ID": "48058",
+    "NAME": "НИИ РФ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-22T12:37:50+03:00",
+    "UPDATE_TIME": "2024-05-22T12:39:14+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/НИИ РФ"
+  },
+  {
+    "ID": "48074",
+    "NAME": "ПУБЛИКАЦИИ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-05-22T16:42:27+03:00",
+    "UPDATE_TIME": "2024-05-25T15:28:15+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ"
+  },
+  {
+    "ID": "51174",
+    "NAME": "ЛАЙНАП МЕРОПРИЯТИЙ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-07-07T12:22:19+03:00",
+    "UPDATE_TIME": "2024-07-07T12:22:43+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ЛАЙНАП МЕРОПРИЯТИЙ"
+  },
+  {
+    "ID": "51646",
+    "NAME": "ПАТЭС",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-07-15T10:32:57+03:00",
+    "UPDATE_TIME": "2024-07-24T10:24:48+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПАТЭС"
+  },
+  {
+    "ID": "52486",
+    "NAME": "ЭКОНОМИЧЕСКИЕ СОЮЗЫ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-07-18T13:17:06+03:00",
+    "UPDATE_TIME": "2024-07-18T13:18:38+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ЭКОНОМИЧЕСКИЕ СОЮЗЫ"
+  },
+  {
+    "ID": "52532",
+    "NAME": "TRUMP ORGANIZATION",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-07-18T13:42:03+03:00",
+    "UPDATE_TIME": "2024-07-18T13:42:39+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/TRUMP ORGANIZATION"
+  },
+  {
+    "ID": "52636",
+    "NAME": "ИНДЕКСЫ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-07-20T09:55:49+03:00",
+    "UPDATE_TIME": "2024-09-25T10:45:02+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ИНДЕКСЫ"
+  },
+  {
+    "ID": "52732",
+    "NAME": "РЕЙТИНГИ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-07-20T13:42:18+03:00",
+    "UPDATE_TIME": "2024-07-27T13:37:56+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/РЕЙТИНГИ"
+  },
+  {
+    "ID": "52810",
+    "NAME": "МОСКВА ПОРТ ПЯТИ МОРЕЙ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-07-20T15:39:35+03:00",
+    "UPDATE_TIME": "2024-07-20T15:40:10+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/МОСКВА ПОРТ ПЯТИ МОРЕЙ"
+  },
+  {
+    "ID": "54148",
+    "NAME": "АЛГОРИТМ ПОДПИСАНИЯ ДОКУМЕНТОВ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-07-28T10:30:40+03:00",
+    "UPDATE_TIME": "2024-07-28T10:30:40+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/АЛГОРИТМ ПОДПИСАНИЯ ДОКУМЕНТОВ"
+  },
+  {
+    "ID": "57718",
+    "NAME": "АРКТИКА",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-08-05T10:31:34+03:00",
+    "UPDATE_TIME": "2024-08-26T11:10:01+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/АРКТИКА"
+  },
+  {
+    "ID": "57720",
+    "NAME": "АНТАРКТИКА",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-08-05T10:31:44+03:00",
+    "UPDATE_TIME": "2024-08-26T08:10:17+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/АНТАРКТИКА"
+  },
+  {
+    "ID": "58502",
+    "NAME": "ПИСЬМА",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-08-12T16:31:40+03:00",
+    "UPDATE_TIME": "2025-09-10T20:11:07+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПИСЬМА"
+  },
+  {
+    "ID": "61498",
+    "NAME": "ДОСТУПЫ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-09-02T05:29:48+03:00",
+    "UPDATE_TIME": "2024-09-25T13:58:29+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ДОСТУПЫ"
+  },
+  {
+    "ID": "76860",
+    "NAME": "МАШИНОСТРОНИЕ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2024-12-21T17:29:58+03:00",
+    "UPDATE_TIME": "2024-12-21T17:41:20+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/МАШИНОСТРОНИЕ"
+  },
+  {
+    "ID": "136486",
+    "NAME": "ГЛОБАЛЬНАЯПАРУСНАЯ РЕГАТА",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2025-06-19T15:43:47+03:00",
+    "UPDATE_TIME": "2025-06-19T15:47:01+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ГЛОБАЛЬНАЯПАРУСНАЯ РЕГАТА"
+  },
+  {
+    "ID": "138544",
+    "NAME": "СЫН ДМИТРИЙ ДМИТРИЕНКО",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2025-06-24T12:29:03+03:00",
+    "UPDATE_TIME": "2025-06-24T12:29:32+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/СЫН ДМИТРИЙ ДМИТРИЕНКО"
+  },
+  {
+    "ID": "141108",
+    "NAME": "НАО НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2025-07-10T21:34:32+03:00",
+    "UPDATE_TIME": "2025-07-10T21:34:34+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/НАО НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ"
+  },
+  {
+    "ID": "141396",
+    "NAME": "ПЛАВУЧКИ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2025-07-16T12:19:58+03:00",
+    "UPDATE_TIME": "2025-11-07T23:12:48+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПЛАВУЧКИ"
+  },
+  {
+    "ID": "143414",
+    "NAME": "КРАТЕРЫ",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2025-08-03T10:48:15+03:00",
+    "UPDATE_TIME": "2025-08-03T10:48:28+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/КРАТЕРЫ"
+  },
+  {
+    "ID": "152050",
+    "NAME": "ДВД",
+    "TYPE": "folder",
+    "SIZE": null,
+    "CREATE_TIME": "2025-10-01T09:58:10+03:00",
+    "UPDATE_TIME": "2025-10-18T19:10:42+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ДВД"
+  },
+  {
+    "ID": "46014",
+    "NAME": "TELEGRAM.docx",
+    "TYPE": "file",
+    "SIZE": "21187",
+    "CREATE_TIME": "2024-05-12T08:13:33+03:00",
+    "UPDATE_TIME": "2024-05-12T08:19:30+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/file/TELEGRAM.docx"
+  },
+  {
+    "ID": "118108",
+    "NAME": "Новая таблица.xlsx",
+    "TYPE": "file",
+    "SIZE": "14417",
+    "CREATE_TIME": "2025-02-26T20:53:58+03:00",
+    "UPDATE_TIME": "2025-02-26T21:37:54+03:00",
+    "DETAIL_URL": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/file/Новая таблица.xlsx"
+  }
+]

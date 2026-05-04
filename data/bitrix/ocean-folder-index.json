@@ -1,0 +1,242 @@
+[
+  {
+    "folder": "УСТАВНЫЕ",
+    "id": "40740",
+    "name": "СВИДЕТЕЛЬСТВО.jpg",
+    "type": "file",
+    "size": "283896",
+    "created": "2024-04-23T10:51:08+03:00",
+    "updated": "2024-04-23T10:51:08+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/file/УСТАВНЫЕ/СВИДЕТЕЛЬСТВО.jpg"
+  },
+  {
+    "folder": "УСТАВНЫЕ",
+    "id": "40750",
+    "name": "ДМИТРИЕНКО_Д.В.__СФ_2__1_.pdf",
+    "type": "file",
+    "size": "127800",
+    "created": "2024-04-23T10:54:55+03:00",
+    "updated": "2024-04-23T10:54:55+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/file/УСТАВНЫЕ/ДМИТРИЕНКО_Д.В.__СФ_2__1_.pdf"
+  },
+  {
+    "folder": "ПИСЬМА",
+    "id": "60828",
+    "name": "РОССИЯ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-08-29T16:02:29+03:00",
+    "updated": "2024-09-29T11:38:54+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПИСЬМА/РОССИЯ"
+  },
+  {
+    "folder": "ПИСЬМА",
+    "id": "62760",
+    "name": "МЕЖДУНАРОДНЕ ОРГАНИЗАЦИИ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-09-06T15:38:49+03:00",
+    "updated": "2024-09-06T15:38:58+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПИСЬМА/МЕЖДУНАРОДНЕ ОРГАНИЗАЦИИ"
+  },
+  {
+    "folder": "ПИСЬМА",
+    "id": "149274",
+    "name": "ИНСТРУКЦИИ",
+    "type": "folder",
+    "size": null,
+    "created": "2025-09-10T20:11:06+03:00",
+    "updated": "2025-09-10T20:11:12+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПИСЬМА/ИНСТРУКЦИИ"
+  },
+  {
+    "folder": "ИНДЕКСЫ",
+    "id": "52640",
+    "name": "СУЩЕСТВУЮЩИЕ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-07-20T09:56:18+03:00",
+    "updated": "2024-07-20T09:58:02+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ИНДЕКСЫ/СУЩЕСТВУЮЩИЕ"
+  },
+  {
+    "folder": "ИНДЕКСЫ",
+    "id": "52642",
+    "name": "ИНДЕКСЫ СОЗДАННЫЕ ФОНДОМ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-07-20T09:56:25+03:00",
+    "updated": "2024-07-27T13:36:53+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ИНДЕКСЫ/ИНДЕКСЫ СОЗДАННЫЕ ФОНДОМ"
+  },
+  {
+    "folder": "ИНДЕКСЫ",
+    "id": "68782",
+    "name": "КЛАССИФИКАЦИОННАЯ КОМПАНИЯ VERITAS ФРАНЦИЯ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-09-25T10:45:02+03:00",
+    "updated": "2024-09-25T11:10:23+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ИНДЕКСЫ/КЛАССИФИКАЦИОННАЯ КОМПАНИЯ VERITAS ФРАНЦИЯ"
+  },
+  {
+    "folder": "РЕЙТИНГИ",
+    "id": "52734",
+    "name": "ОБЩАЯ СТАТЬЯ ПРО РЕЙТИНГИ.docx",
+    "type": "file",
+    "size": "35377",
+    "created": "2024-07-20T13:42:23+03:00",
+    "updated": "2024-07-20T14:11:47+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/file/РЕЙТИНГИ/ОБЩАЯ СТАТЬЯ ПРО РЕЙТИНГИ.docx"
+  },
+  {
+    "folder": "ПУБЛИКАЦИИ",
+    "id": "48076",
+    "name": "ЭССЕ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-05-22T16:42:39+03:00",
+    "updated": "2024-09-25T13:44:10+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ/ЭССЕ"
+  },
+  {
+    "folder": "ПУБЛИКАЦИИ",
+    "id": "48084",
+    "name": "ПЛАТФОРМА",
+    "type": "folder",
+    "size": null,
+    "created": "2024-05-22T17:22:25+03:00",
+    "updated": "2024-05-25T15:27:50+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ/ПЛАТФОРМА"
+  },
+  {
+    "folder": "ПУБЛИКАЦИИ",
+    "id": "48088",
+    "name": "МИССИЯ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-05-22T17:24:21+03:00",
+    "updated": "2024-05-25T15:27:50+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ/МИССИЯ"
+  },
+  {
+    "folder": "ПУБЛИКАЦИИ",
+    "id": "48100",
+    "name": "СОЕДИНЕНИЕ РАМОК ДЛЯ СИСТЕМНЫХ ИЗМЕНЕНИЙ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-05-22T18:31:50+03:00",
+    "updated": "2024-05-25T15:27:50+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ/СОЕДИНЕНИЕ РАМОК ДЛЯ СИСТЕМНЫХ ИЗМЕНЕНИЙ"
+  },
+  {
+    "folder": "ПУБЛИКАЦИИ",
+    "id": "48122",
+    "name": "ЕДИНАЯ СИСТЕМА СТАТЬЯ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-05-22T18:50:15+03:00",
+    "updated": "2024-05-25T15:27:50+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ/ЕДИНАЯ СИСТЕМА СТАТЬЯ"
+  },
+  {
+    "folder": "ПУБЛИКАЦИИ",
+    "id": "48156",
+    "name": "ЛОЦМАНСКОЕ ОБЕСПЕЧЕНИЕ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-05-22T20:06:00+03:00",
+    "updated": "2024-05-25T15:27:50+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ/ЛОЦМАНСКОЕ ОБЕСПЕЧЕНИЕ"
+  },
+  {
+    "folder": "ПУБЛИКАЦИИ",
+    "id": "48470",
+    "name": "КЛИМАТ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-05-24T14:38:54+03:00",
+    "updated": "2024-05-25T15:27:50+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ/КЛИМАТ"
+  },
+  {
+    "folder": "ПУБЛИКАЦИИ",
+    "id": "48540",
+    "name": "СИСТЕНДИНГ",
+    "type": "folder",
+    "size": null,
+    "created": "2024-05-25T10:31:25+03:00",
+    "updated": "2024-05-25T15:28:46+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ПУБЛИКАЦИИ/СИСТЕНДИНГ"
+  },
+  {
+    "folder": "ДВД",
+    "id": "152054",
+    "name": "РЕЗЮМЕ",
+    "type": "folder",
+    "size": null,
+    "created": "2025-10-01T10:05:36+03:00",
+    "updated": "2025-10-01T10:49:08+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ДВД/РЕЗЮМЕ"
+  },
+  {
+    "folder": "ДВД",
+    "id": "152056",
+    "name": "ЦИФРОВОЙ АКТИВ",
+    "type": "folder",
+    "size": null,
+    "created": "2025-10-01T10:05:45+03:00",
+    "updated": "2026-02-02T13:33:24+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ДВД/ЦИФРОВОЙ АКТИВ"
+  },
+  {
+    "folder": "ДВД",
+    "id": "152058",
+    "name": "ВИКИПЕДИЯ",
+    "type": "folder",
+    "size": null,
+    "created": "2025-10-01T10:05:51+03:00",
+    "updated": "2025-10-01T10:06:56+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ДВД/ВИКИПЕДИЯ"
+  },
+  {
+    "folder": "ДВД",
+    "id": "153802",
+    "name": "ДОКУМЕНТЫ ЛИЧНЫЕ",
+    "type": "folder",
+    "size": null,
+    "created": "2025-10-17T09:11:34+03:00",
+    "updated": "2025-10-17T09:13:05+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ДВД/ДОКУМЕНТЫ ЛИЧНЫЕ"
+  },
+  {
+    "folder": "ДВД",
+    "id": "153820",
+    "name": "ЗАМЕТКИ",
+    "type": "folder",
+    "size": null,
+    "created": "2025-10-17T09:15:36+03:00",
+    "updated": "2025-10-17T09:22:20+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/ДВД/ЗАМЕТКИ"
+  },
+  {
+    "folder": "СЫН ДМИТРИЙ ДМИТРИЕНКО",
+    "id": "138554",
+    "name": "РЕЗЮМЕ",
+    "type": "folder",
+    "size": null,
+    "created": "2025-06-24T12:29:17+03:00",
+    "updated": "2025-06-24T12:29:19+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/СЫН ДМИТРИЙ ДМИТРИЕНКО/РЕЗЮМЕ"
+  },
+  {
+    "folder": "СЫН ДМИТРИЙ ДМИТРИЕНКО",
+    "id": "138556",
+    "name": "БУНКЕРОВКА",
+    "type": "folder",
+    "size": null,
+    "created": "2025-06-24T12:29:32+03:00",
+    "updated": "2025-06-24T17:35:34+03:00",
+    "detailUrl": "https://abcyarmarka.bitrix24.ru/workgroups/group/62/disk/path/СЫН ДМИТРИЙ ДМИТРИЕНКО/БУНКЕРОВКА"
+  }
+]

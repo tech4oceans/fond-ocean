@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.secret.*
+*webhook*
+*token*
+*password*
+*парол*
+*доступ*
+
+# Local/runtime
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
+tmp/
+*.log
+
+# Generated raw exports
+data/raw/
+downloads/
