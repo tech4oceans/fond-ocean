@@ -1,24 +1,22 @@
 ---
 layout: default
-title: "El oceano como sistema de soporte vital de la Tierra"
+title: "El océano como sistema de soporte de la vida en la Tierra"
 ---
 
-# El oceano como sistema de soporte vital de la Tierra
+# El océano como sistema de soporte de la vida en la Tierra
 
 ![ocean-as-earths-life-support-system preview](../../../assets/article-previews/es/ocean-as-earths-life-support-system.svg)
 
-Cuando la gente piensa en el oceano, suele imaginar agua, costas, tormentas, peces, barcos o hermosos horizontes azules. Pero el oceano no importa solo como paisaje o como recurso. Funciona como uno de los principales sistemas de soporte vital de la Tierra.
+Cuando la gente habla del océano, suele pensar en agua, costas, tormentas, peces, barcos o hermosas fotografías de horizontes azules. Pero el océano es importante no sólo como paisaje o recurso. Opera como uno de los principales sistemas de soporte vital de la Tierra.
 
-El oceano ayuda a regular el clima del planeta. Absorbe una gran parte del calor excedente generado por el aumento de los gases de efecto invernadero en la atmosfera. Sin ese amortiguador, la alteracion climatica sobre la tierra firme seria aun mas intensa y destructiva. El oceano tambien participa en el ciclo global del carbono mediante procesos fisicos, quimicos y biologicos.
+El océano ayuda a regular el clima del planeta. Absorbe gran parte del exceso de calor procedente del aumento de los gases de efecto invernadero en la atmósfera. Sin este amortiguador, el cambio climático en la tierra sería aún más agudo y destructivo. El océano también participa en el ciclo global del carbono, secuestrando carbono mediante procesos físicos, químicos y biológicos.
 
-Su papel climatico no se limita a las cifras de los informes cientificos. El estado del oceano influye en los patrones de lluvia, la intensidad de las tormentas, la resiliencia de los ecosistemas costeros y la calidad de vida en las regiones litorales. A traves de la atmosfera y de la circulacion oceanica, esta conectado con la agricultura, los sistemas alimentarios, la infraestructura urbana y la seguridad de millones de personas.
+Pero el papel climático del océano no se limita a las cifras de los informes científicos. Las condiciones del océano influyen en los patrones de precipitación, la gravedad de las tormentas, la resiliencia de los ecosistemas costeros y la calidad de vida en las regiones costeras. A través de la atmósfera y las corrientes, el océano está conectado con la agricultura, los sistemas alimentarios, la infraestructura urbana y la seguridad de millones de personas.
 
-El oceano es tambien un inmenso entorno biologico. Los ecosistemas marinos sostienen una extraordinaria diversidad, desde plancton y corales hasta mamiferos marinos y organismos de aguas profundas que aun se comprenden solo parcialmente. Esa biodiversidad importa no solo por si misma. Esta vinculada a la resiliencia de los ecosistemas, a las redes troficas, a la salud costera y a la capacidad de la naturaleza para responder al estres.
+El océano es también un vasto entorno biológico. Los ecosistemas marinos sustentan una enorme diversidad de vida, desde plancton y corales hasta mamíferos marinos y organismos de aguas profundas, que todavía se conocen sólo parcialmente. Esta biodiversidad no sólo es importante en sí misma. Está relacionado con la estabilidad de los ecosistemas, las cadenas alimentarias, el estado de las aguas costeras y la capacidad de la naturaleza para responder al estrés.
 
-Al mismo tiempo, el oceano sigue siendo parcialmente desconocido. Sabemos mucho mas que hace un siglo, pero todavia no hemos cartografiado el fondo marino con el detalle deseado, ni descrito todas las especies marinas, ni comprendido por completo como cambiara el oceano bajo el calentamiento, la acidificacion, la desoxigenacion, la contaminacion y la presion industrial.
+De particular importancia es que el océano sigue siendo parcialmente desconocido. Sabemos mucho más sobre él que hace un siglo, pero todavía no hemos cartografiado el fondo marino en resolución completa, descrito todas las especies marinas y no entendemos completamente cómo cambiará el océano bajo la presión del calentamiento, la acidificación, la desoxigenación, la contaminación y el uso industrial.
 
-Por eso el oceano no puede seguir siendo solo un tema para circulos de especialistas. El conocimiento oceanico debe incorporarse a la educacion, la ciencia publica, el trabajo con datos, la cultura y la cooperacion internacional. Se necesita no solo investigacion, sino tambien traduccion del conocimiento en mapas, ensayos, visualizaciones, conferencias, registros abiertos de datos y plataformas de interes publico.
+Por eso la conversación sobre el océano no puede dejarse únicamente en manos de especialistas de instituciones estrechas. El tema de los océanos debe integrarse en la educación, en la ciencia pública, en el trabajo con datos, en la cultura y en la cooperación internacional. Necesitamos no sólo investigación, sino también formas claras de traducción del conocimiento: mapas, textos explicativos, visualizaciones, conferencias, registros de datos abiertos y plataformas socialmente útiles.
 
-Para Ocean Fund, el oceano no es un tema azul abstracto, sino un sistema vivo central del planeta. Si la sociedad quiere comprender el clima, la resiliencia, la biodiversidad y el futuro de las regiones costeras, necesita un lenguaje claro para pensar el oceano. Por eso el oceano debe tratarse no como un fondo, sino como uno de los principales objetos del conocimiento publico del siglo XXI.
-
-
+Para el Ocean Fund, el océano es importante no como un “tema azul” abstracto, sino como el sistema vivo central del planeta. Si la sociedad quiere entender el clima, la sostenibilidad, la biodiversidad y el futuro de las zonas costeras, necesita un lenguaje claro para hablar del océano. Es por ello que el océano no debe ser considerado como un fondo, sino como uno de los principales objetos de conocimiento público del siglo XXI.

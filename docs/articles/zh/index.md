@@ -1,29 +1,29 @@
 ---
 layout: default
-title: "Ocean Fund 文章"
+title: Ocean Fund 文章
 ---
 
 # Ocean Fund 文章
 
-这是 Ocean Fund 公共文章栏目中文版入口页。
+Ocean Fund 公共文章栏目的中文版本。
 
-## 已发布中文版本
+## Published
 
-- [海洋作为地球生命支持系统](ocean-as-earths-life-support-system.md)
-
-## 当前栏目中的俄文原文
-
-- [海洋作为地球生命支持系统](../ocean-as-earths-life-support-system.md)
-- [为什么开放海洋数据对社会重要](../why-open-ocean-data-matters.md)
-- [地球作为海洋世界](../earth-as-an-ocean-world.md)
-- [珊瑚礁作为海洋状态的指标](../coral-reefs-as-an-ocean-indicator.md)
-- [深海是地球上的未知星球](../deep-ocean-as-an-unknown-planet.md)
-- [海岸韧性始于数据](../coastal-resilience-starts-with-data.md)
-- [海洋噪声是一种隐形污染](../ocean-noise-as-hidden-pollution.md)
-- [没有炒作的蓝色经济](../blue-economy-without-hype.md)
-- [卫星与海洋：我们如何从上方看见地球](../satellites-and-the-ocean.md)
-- [海洋素养是未来的基础设施](../ocean-literacy-as-infrastructure.md)
-
-## 说明
-
-Ocean Fund 正在持续补全联合国六种官方语言的全文版本。
+- [没有迷雾和炒作的蓝色经济](blue-economy-without-hype.md)
+- [公民科学和生命海岸线](citizen-science-and-the-living-coastline.md)
+- [沿海恢复力从数据开始](coastal-resilience-starts-with-data.md)
+- [珊瑚礁作为海洋健康的指标](coral-reefs-as-an-ocean-indicator.md)
+- [深海作为地球上的未知星球](deep-ocean-as-an-unknown-planet.md)
+- [地球是一个海洋世界](earth-as-an-ocean-world.md)
+- [绘制海底地图意味着绘制未来](mapping-the-seafloor-mapping-the-future.md)
+- [海洋生物多样性需要开放登记](marine-biodiversity-needs-open-registries.md)
+- [博物馆和天文馆作为通往社会的海洋门户](museums-and-planetariums-as-ocean-gateways.md)
+- [海洋作为地球的生命支持系统](ocean-as-earths-life-support-system.md)
+- [海洋指数和评级需要方法论](ocean-indexes-need-methodology.md)
+- [海洋素养作为未来的基础设施](ocean-literacy-as-infrastructure.md)
+- [海洋噪音是看不见的污染](ocean-noise-as-hidden-pollution.md)
+- [海洋技术需要清晰的公共语言](ocean-technology-needs-public-language.md)
+- [卫星和海洋：我们如何从上方观察地球](satellites-and-the-ocean.md)
+- [为什么海洋会议不仅对于交流很重要](why-ocean-conferences-matter.md)
+- [为什么海洋组织需要开放的公共中心](why-ocean-organizations-need-open-public-hubs.md)
+- [为什么开放海洋数据对社会很重要](why-open-ocean-data-matters.md)

@@ -1,24 +1,22 @@
 ---
 layout: default
-title: "L'ocean comme systeme de soutien a la vie sur Terre"
+title: "L'océan comme système de survie sur Terre"
 ---
 
-# L'ocean comme systeme de soutien a la vie sur Terre
+# L'océan comme système de survie sur Terre
 
 ![ocean-as-earths-life-support-system preview](../../../assets/article-previews/fr/ocean-as-earths-life-support-system.svg)
 
-Quand on parle de l'ocean, on imagine souvent l'eau, les cotes, les tempetes, les poissons, les navires ou de beaux horizons bleus. Pourtant, l'ocean n'est pas seulement un paysage ou une ressource. Il fonctionne comme l'un des principaux systemes de soutien a la vie sur Terre.
+Lorsque les gens parlent d’océan, ils pensent souvent à l’eau, aux côtes, aux tempêtes, aux poissons, aux navires ou à de belles photographies d’horizons bleus. Mais l’océan n’est pas seulement important en tant que paysage ou ressource. Il fonctionne comme l’un des principaux systèmes de survie sur Terre.
 
-L'ocean aide a reguler le climat de la planete. Il absorbe une part importante de la chaleur excedentaire produite par l'augmentation des gaz a effet de serre dans l'atmosphere. Sans ce role tampon, les bouleversements climatiques sur les continents seraient encore plus brutaux. L'ocean participe aussi au cycle global du carbone par des processus physiques, chimiques et biologiques.
+L'océan contribue à réguler le climat de la planète. Il absorbe une grande partie de la chaleur excédentaire provenant de l’augmentation des gaz à effet de serre dans l’atmosphère. Sans ce tampon, le changement climatique sur terre serait encore plus marqué et destructeur. L’océan participe également au cycle mondial du carbone, en séquestrant le carbone par des processus physiques, chimiques et biologiques.
 
-Son role climatique ne se limite pas aux chiffres des rapports scientifiques. L'etat de l'ocean influence les regimes de pluie, l'intensite des tempetes, la resilience des ecosystemes cotiers et la qualite de vie des regions littorales. Par l'atmosphere et la circulation oceanique, il est lie a l'agriculture, aux systemes alimentaires, aux infrastructures urbaines et a la securite de millions de personnes.
+Mais le rôle climatique de l’océan ne se limite pas aux chiffres des rapports scientifiques. Les conditions océaniques influencent les régimes de précipitations, la gravité des tempêtes, la résilience des écosystèmes côtiers et la qualité de vie dans les régions côtières. Par l’intermédiaire de l’atmosphère et des courants, l’océan est lié à l’agriculture, aux systèmes alimentaires, aux infrastructures urbaines et à la sécurité de millions de personnes.
 
-L'ocean est aussi un immense milieu biologique. Les ecosystemes marins soutiennent une extraordinaire diversite, du plancton et des coraux jusqu'aux mammiferes marins et aux organismes des grandes profondeurs encore imparfaitement connus. Cette biodiversite n'est pas importante uniquement en elle-meme. Elle est liee a la resilience des ecosystemes, aux chaines alimentaires, a la sante des zones cotières et a la capacite de la nature a repondre au stress.
+L’océan est aussi un vaste environnement biologique. Les écosystèmes marins abritent une énorme diversité de vie, du plancton et des coraux aux mammifères marins et aux organismes des grands fonds, qui ne sont encore que partiellement compris. Cette biodiversité n’est pas seulement importante en soi. Elle est liée à la stabilité des écosystèmes, aux chaînes alimentaires, à l'état des eaux côtières et à la capacité de la nature à réagir au stress.
 
-En meme temps, l'ocean reste en partie inconnu. Nous en savons beaucoup plus qu'il y a un siecle, mais nous n'avons toujours pas cartographie le fond marin avec toute la precision voulue, ni decrit toutes les especes marines, ni compris pleinement comment l'ocean reagira au rechauffement, a l'acidification, a la deoxygenation, a la pollution et aux pressions industrielles.
+Il est particulièrement important que l’océan reste partiellement inconnu. Nous en savons beaucoup plus à ce sujet qu'il y a un siècle, mais nous n'avons toujours pas cartographié les fonds marins en pleine résolution, décrit toutes les espèces marines et ne comprenons pas pleinement comment l'océan va changer sous la pression du réchauffement, de l'acidification, de la désoxygénation, de la pollution et de l'utilisation industrielle.
 
-C'est pourquoi l'ocean ne peut pas rester seulement un sujet reserve a des cercles experts. La connaissance oceanique doit entrer dans l'education, la science publique, le travail sur les donnees, la culture et la cooperation internationale. Il faut non seulement de la recherche, mais aussi des traductions de cette connaissance en cartes, essais, visualisations, conferences, registres de donnees ouverts et plateformes d'interet public.
+C’est pourquoi le débat sur l’océan ne peut être laissé aux seuls spécialistes d’institutions étroites. Le thème de l’océan doit être intégré dans l’éducation, dans la science publique, dans le travail sur les données, dans la culture et dans la coopération internationale. Nous avons besoin non seulement de recherches, mais aussi de formes claires d’application des connaissances : cartes, textes explicatifs, visualisations, conférences, registres de données ouvertes et plateformes socialement utiles.
 
-Pour Ocean Fund, l'ocean n'est pas un theme bleu abstrait, mais un systeme vivant central de la planete. Si la societe veut comprendre le climat, la resilience, la biodiversite et l'avenir des regions cotieres, elle a besoin d'un langage clair pour penser l'ocean. C'est pourquoi l'ocean doit etre considere non comme un decor, mais comme l'un des grands objets de connaissance publique du XXIe siecle.
-
-
+Pour le Fonds Océan, l’océan est important non pas en tant que « thème bleu » abstrait, mais en tant que système vivant central de la planète. Si la société veut comprendre le climat, la durabilité, la biodiversité et l’avenir des zones côtières, elle a besoin d’un langage clair pour parler de l’océan. C’est pourquoi l’océan ne doit pas être considéré comme un arrière-plan, mais comme l’un des principaux objets de connaissance publique du XXIe siècle.
