@@ -56,7 +56,7 @@
 
 1. Read [对于合作伙伴](partners.md).
 2. Read [公共任务副本](mission-copy.md).
-3. Review [合作伙伴](../docs/partners.md).
+3. Review [合作伙伴](../../docs/zh/partners.md).
 4. 使用公共 `Partnerships` 讨论类别或跟踪问题进行下一步。
 
 ## 公示规则

@@ -24,9 +24,9 @@ El siguiente activo de apoyo debe estar presente siempre que el proyecto se util
 - [Paquete de aplicación para eventos](event-application-pack.md)
 - [Índices y publicaciones de una página](indexes-and-publications-one-pager.md)
 - [Copia de la misión pública](mission-copy.md)
-- [Misión](../docs/mission.md)
-- [Hoja de ruta](../docs/roadmap.md)
-- [Asociaciones](../docs/partners.md)
+- [Misión](../../docs/es/mission.md)
+- [Hoja de ruta](../../docs/es/roadmap.md)
+- [Asociaciones](../../docs/es/partners.md)
 
 ## regla de trabajo
 

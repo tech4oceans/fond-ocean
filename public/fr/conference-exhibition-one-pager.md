@@ -73,7 +73,7 @@ Commencez par les informations publiques uniquement :
 1. Read [Pour les partenaires](partners.md).
 2. Read [Document d'une page pour les partenaires](partner-one-pager.md).
 3. Read [Copie de mission publique](mission-copy.md).
-4. Review [Modèle de demande de conférence](../outreach/conference-application-template.md).
+4. Review [Modèle de demande de conférence](../../outreach/conference-application-template.md).
 5. Passez à une discussion publique ou à une étape suivante suivie.
 
 ## Règles de publicité

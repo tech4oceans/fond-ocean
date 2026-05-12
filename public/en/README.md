@@ -24,9 +24,9 @@ The following supporting asset should be present whenever the project is used fo
 - [Event Application Pack](event-application-pack.md)
 - [Indexes and Publications One-Pager](indexes-and-publications-one-pager.md)
 - [Public Mission Copy](mission-copy.md)
-- [Mission](../docs/mission.md)
-- [Roadmap](../docs/roadmap.md)
-- [Partnerships](../docs/partners.md)
+- [Mission](../../docs/en/mission.md)
+- [Roadmap](../../docs/en/roadmap.md)
+- [Partnerships](../../docs/en/partners.md)
 
 ## Working rule
 

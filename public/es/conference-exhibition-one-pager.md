@@ -73,7 +73,7 @@ Comience solo con información pública:
 1. Read [Para socios](partners.md).
 2. Read [Socio de una página](partner-one-pager.md).
 3. Read [Copia de la misión pública](mission-copy.md).
-4. Review [Plantilla de solicitud de conferencia](../outreach/conference-application-template.md).
+4. Review [Plantilla de solicitud de conferencia](../../outreach/conference-application-template.md).
 5. Pasar a la discusión pública o al seguimiento del siguiente paso.
 
 ## Reglas de publicidad

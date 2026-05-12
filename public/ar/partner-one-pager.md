@@ -56,7 +56,7 @@
 
 1. Read [للشركاء](partners.md).
 2. Read [نسخة المهمة العامة](mission-copy.md).
-3. Review [الشراكات](../docs/partners.md).
+3. Review [الشراكات](../../docs/ar/partners.md).
 4. استخدم فئة المناقشة العامة `Partnerships` أو المشكلة المتعقبة للخطوة التالية.
 
 ## قواعد الدعاية

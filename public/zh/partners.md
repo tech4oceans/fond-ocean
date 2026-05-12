@@ -28,8 +28,8 @@
 - Use [合作伙伴单页机](partner-one-pager.md) when you need a compact external brief.
 - Use [会议/展览单页机](conference-exhibition-one-pager.md) for event-facing outreach.
 - Read [公共任务副本](mission-copy.md) for the approved project description.
-- Read [合作伙伴](../docs/partners.md) for the collaboration frame.
-- Browse [外展材料](../outreach/README.md) for current communication templates.
+- Read [合作伙伴](../../docs/zh/partners.md) for the collaboration frame.
+- Browse [外展材料](../../outreach/README.md) for current communication templates.
 - 如果启用了 GitHub 讨论，请使用 `Partnerships` 讨论类别进行公共探索。
 - 如果跟踪的操作已经明确，请打开 `Partner lead` 问题模板。
 
@@ -50,5 +50,5 @@
 1. 本页；
 2. [合作伙伴单页机](partner-one-pager.md);
 3. [公共任务副本](mission-copy.md);
-4. [合作伙伴](../docs/partners.md);
+4. [合作伙伴](../../docs/zh/partners.md);
 5. 公开讨论或跟踪下一步。

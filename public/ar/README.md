@@ -24,9 +24,9 @@
 - [حزمة تطبيق الحدث](event-application-pack.md)
 - [الفهارس والمنشورات صفحة واحدة](indexes-and-publications-one-pager.md)
 - [نسخة المهمة العامة](mission-copy.md)
-- [مهمة](../docs/mission.md)
-- [خريطة الطريق](../docs/roadmap.md)
-- [الشراكات](../docs/partners.md)
+- [مهمة](../../docs/ar/mission.md)
+- [خريطة الطريق](../../docs/ar/roadmap.md)
+- [الشراكات](../../docs/ar/partners.md)
 
 ## قاعدة العمل
 

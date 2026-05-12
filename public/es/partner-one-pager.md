@@ -56,7 +56,7 @@ Comience solo con información pública:
 
 1. Read [Para socios](partners.md).
 2. Read [Copia de la misión pública](mission-copy.md).
-3. Revise [Asociaciones](../docs/partners.md).
+3. Revise [Asociaciones](../../docs/es/partners.md).
 4. Utilice la categoría de discusión pública `Partnerships` o un tema rastreado para el siguiente paso.
 
 ## Reglas de publicidad

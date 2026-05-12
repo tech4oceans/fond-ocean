@@ -28,8 +28,8 @@
 - Use [شريك صفحة واحدة](partner-one-pager.md) when you need a compact external brief.
 - Use [مؤتمر / معرض صفحة واحدة](conference-exhibition-one-pager.md) for event-facing outreach.
 - Read [نسخة المهمة العامة](mission-copy.md) for the approved project description.
-- Read [الشراكات](../docs/partners.md) for the collaboration frame.
-- Browse [مواد التوعية](../outreach/README.md) for current communication templates.
+- Read [الشراكات](../../docs/ar/partners.md) for the collaboration frame.
+- Browse [مواد التوعية](../../outreach/README.md) for current communication templates.
 - إذا تم تمكين مناقشات GitHub، استخدم فئة المناقشة `Partnerships` للاستكشاف العام.
 - إذا كان الإجراء المتعقب واضحًا بالفعل، فافتح قالب المشكلة `Partner lead`.
 
@@ -50,5 +50,5 @@
 1. هذه الصفحة؛
 2. [شريك صفحة واحدة](partner-one-pager.md);
 3. [نسخة المهمة العامة](mission-copy.md);
-4. [الشراكات](../docs/partners.md);
+4. [الشراكات](../../docs/ar/partners.md);
 5. مناقشة عامة أو تتبع الخطوة التالية.

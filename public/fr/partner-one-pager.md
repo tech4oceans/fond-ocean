@@ -56,7 +56,7 @@ Commencez par les informations publiques uniquement :
 
 1. Read [Pour les partenaires](partners.md).
 2. Read [Copie de mission publique](mission-copy.md).
-3. Consultez les [Partenariats](../docs/partners.md).
+3. Consultez les [Partenariats](../../docs/fr/partners.md).
 4. Utilisez la catégorie de discussion publique `Partnerships` ou un problème suivi pour l'étape suivante.
 
 ## Règles de publicité

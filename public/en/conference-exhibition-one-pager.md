@@ -73,7 +73,7 @@ Start with public information only:
 1. Read [For Partners](partners.md).
 2. Read [Partner One-Pager](partner-one-pager.md).
 3. Read [Public Mission Copy](mission-copy.md).
-4. Review [Conference Application Template](../outreach/conference-application-template.md).
+4. Review [Conference Application Template](../../outreach/conference-application-template.md).
 5. Move to public discussion or a tracked next step.
 
 ## Publicity Rules

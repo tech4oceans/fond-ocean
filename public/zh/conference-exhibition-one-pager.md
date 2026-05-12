@@ -73,7 +73,7 @@
 1. Read [对于合作伙伴](partners.md).
 2. Read [合作伙伴单页机](partner-one-pager.md).
 3. Read [公共任务副本](mission-copy.md).
-4. Review [会议申请模板](../outreach/conference-application-template.md).
+4. Review [会议申请模板](../../outreach/conference-application-template.md).
 5. 转向公开讨论或跟踪的下一步。
 
 ## 公示规则

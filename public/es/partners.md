@@ -28,8 +28,8 @@ Buenos primeros formatos:
 - Utilice [Socio de una página](partner-one-pager.md) cuando necesite un informe externo compacto.
 - Use [Conferencia / Exposición de una página](conference-exhibition-one-pager.md) for event-facing outreach.
 - Read [Copia de la misión pública](mission-copy.md) for the approved project description.
-- Lea [Asociaciones](../docs/partners.md) para conocer el marco de colaboración.
-- Explore [Materiales de divulgación](../outreach/README.md) para ver las plantillas de comunicación actuales.
+- Lea [Asociaciones](../../docs/es/partners.md) para conocer el marco de colaboración.
+- Explore [Materiales de divulgación](../../outreach/README.md) para ver las plantillas de comunicación actuales.
 - Si las Discusiones de GitHub están habilitadas, use la categoría de discusión `Partnerships` para la exploración pública.
 - Si una acción rastreada ya está clara, abra la plantilla de problema `Partner lead`.
 
@@ -50,5 +50,5 @@ La ruta externa mínima correcta para un nuevo contacto institucional es:
 1. esta página;
 2. [Socio de una página](partner-one-pager.md);
 3. [Copia de la misión pública](mission-copy.md);
-4. [Asociaciones](../docs/partners.md);
+4. [Asociaciones](../../docs/es/partners.md);
 5. discusión pública o seguimiento del siguiente paso.

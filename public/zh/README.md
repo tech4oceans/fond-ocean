@@ -24,9 +24,9 @@
 - [活动应用包](event-application-pack.md)
 - [索引和出版物单页](indexes-and-publications-one-pager.md)
 - [公共任务副本](mission-copy.md)
-- [使命](../docs/mission.md)
-- [路线图](../docs/roadmap.md)
-- [合作伙伴](../docs/partners.md)
+- [使命](../../docs/zh/mission.md)
+- [路线图](../../docs/zh/roadmap.md)
+- [合作伙伴](../../docs/zh/partners.md)
 
 ## 工作规则
 

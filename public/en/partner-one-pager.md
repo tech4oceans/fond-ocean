@@ -56,7 +56,7 @@ Start with public information only:
 
 1. Read [For Partners](partners.md).
 2. Read [Public Mission Copy](mission-copy.md).
-3. Review [Partnerships](../docs/partners.md).
+3. Review [Partnerships](../../docs/en/partners.md).
 4. Use the public `Partnerships` discussion category or a tracked issue for the next step.
 
 ## Publicity Rules

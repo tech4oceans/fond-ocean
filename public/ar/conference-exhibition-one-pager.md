@@ -73,7 +73,7 @@
 1. Read [للشركاء](partners.md).
 2. Read [شريك صفحة واحدة](partner-one-pager.md).
 3. Read [نسخة المهمة العامة](mission-copy.md).
-4. Review [نموذج طلب المؤتمر](../outreach/conference-application-template.md).
+4. Review [نموذج طلب المؤتمر](../../outreach/conference-application-template.md).
 5. انتقل إلى المناقشة العامة أو الخطوة التالية المتعقبة.
 
 ## قواعد الدعاية

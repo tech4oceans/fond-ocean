@@ -24,9 +24,9 @@ L’actif de soutien suivant doit être présent chaque fois que le projet est u
 - [Pack d'applications pour événements](event-application-pack.md)
 - [Index et publications en une seule page](indexes-and-publications-one-pager.md)
 - [Copie de mission publique](mission-copy.md)
-- [Mission](../docs/mission.md)
-- [Feuille de route](../docs/roadmap.md)
-- [Partenariats](../docs/partners.md)
+- [Mission](../../docs/fr/mission.md)
+- [Feuille de route](../../docs/fr/roadmap.md)
+- [Partenariats](../../docs/fr/partners.md)
 
 ## Règle de travail
 

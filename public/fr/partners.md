@@ -28,8 +28,8 @@ Bons premiers formats :
 - Utilisez [Document d'une page pour les partenaires](partner-one-pager.md) lorsque vous avez besoin d'un brief externe compact.
 - Utilisez [Conférence/Exposition One-Pager](conference-exhibition-one-pager.md) pour une sensibilisation événementielle.
 - Lire [Copie de mission publique](mission-copy.md) pour la description du projet approuvé.
-- Lisez [Partenariats](../docs/partners.md) pour le cadre de collaboration.
-- Parcourez [Matériel de sensibilisation](../outreach/README.md) pour les modèles de communication actuels.
+- Lisez [Partenariats](../../docs/fr/partners.md) pour le cadre de collaboration.
+- Parcourez [Matériel de sensibilisation](../../outreach/README.md) pour les modèles de communication actuels.
 - Si les discussions GitHub sont activées, utilisez la catégorie de discussion `Partnerships` pour l'exploration publique.
 - Si une action suivie est déjà claire, ouvrez le modèle de problème `Partner lead`.
 
@@ -50,5 +50,5 @@ L’itinéraire externe minimum correct pour un nouveau contact institutionnel e
 1. cette page ;
 2. [Document d'une page pour les partenaires](partner-one-pager.md);
 3. [Copie de mission publique](mission-copy.md);
-4. [Partenariats](../docs/partners.md);
+4. [Partenariats](../../docs/fr/partners.md);
 5. débat public ou suivi de la prochaine étape.

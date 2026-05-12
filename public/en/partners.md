@@ -28,8 +28,8 @@ Good first formats:
 - Use [Partner One-Pager](partner-one-pager.md) when you need a compact external brief.
 - Use [Conference / Exhibition One-Pager](conference-exhibition-one-pager.md) for event-facing outreach.
 - Read [Public Mission Copy](mission-copy.md) for the approved project description.
-- Read [Partnerships](../docs/partners.md) for the collaboration frame.
-- Browse [Outreach Materials](../outreach/README.md) for current communication templates.
+- Read [Partnerships](../../docs/en/partners.md) for the collaboration frame.
+- Browse [Outreach Materials](../../outreach/README.md) for current communication templates.
 - If GitHub Discussions is enabled, use the `Partnerships` discussion category for public exploration.
 - If a tracked action is already clear, open the `Partner lead` issue template.
 
@@ -50,5 +50,5 @@ The minimum correct external route for a new institutional contact is:
 1. this page;
 2. [Partner One-Pager](partner-one-pager.md);
 3. [Public Mission Copy](mission-copy.md);
-4. [Partnerships](../docs/partners.md);
+4. [Partnerships](../../docs/en/partners.md);
 5. public discussion or tracked next step.

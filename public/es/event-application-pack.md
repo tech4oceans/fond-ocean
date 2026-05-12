@@ -68,7 +68,7 @@ Si es relevante, estaremos encantados de explorar un pequeño primer paso y ver 
 
 Atentamente,
 Fondo Oceánico
-__CÓDIGO0__
+`partners@example.org`
 
 Antes de enviar, reemplace los marcadores de posición y utilice únicamente información de contacto pública confirmada.
 
