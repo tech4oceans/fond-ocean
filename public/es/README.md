@@ -25,6 +25,8 @@ El siguiente activo de apoyo debe estar presente siempre que el proyecto se util
 - [Paquete de aplicación para eventos](event-application-pack.md)
 - [Índices y publicaciones de una página](indexes-and-publications-one-pager.md)
 - [Mapa de la red oceanica](ocean-network-map.md)
+- [Atlas de comunidades oceanicas](ocean-communities-atlas.md)
+- [Modelos oceanicos de ONG y donacion](ocean-nonprofit-giving-models.md)
 - [Copia de la misión pública](mission-copy.md)
 - [Misión](../../docs/es/mission.md)
 - [Hoja de ruta](../../docs/es/roadmap.md)

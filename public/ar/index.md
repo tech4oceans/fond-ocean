@@ -16,3 +16,5 @@ title: الطبقة العامة لـ Ocean Fund
 - [صيغة المهمة العامة](mission-copy.md)
 - [الفهارس والمنشورات](indexes-and-publications-one-pager.md)
 - [خريطة الشبكة المحيطية](ocean-network-map.md)
+- [اطلس المجتمعات المحيطية](ocean-communities-atlas.md)
+- [نماذج المنظمات غير الربحية والتبرع للمحيط](ocean-nonprofit-giving-models.md)

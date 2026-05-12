@@ -25,6 +25,8 @@ The following supporting asset should be present whenever the project is used fo
 - [Event Application Pack](event-application-pack.md)
 - [Indexes and Publications One-Pager](indexes-and-publications-one-pager.md)
 - [Ocean Network Map](ocean-network-map.md)
+- [Атлас океанических сообществ](ocean-communities-atlas.md)
+- [Некоммерческие океанические фонды и модели пожертвований](ocean-nonprofit-giving-models.md)
 - [Public Mission Copy](mission-copy.md)
 - [Mission](../docs/mission.md)
 - [Roadmap](../docs/roadmap.md)

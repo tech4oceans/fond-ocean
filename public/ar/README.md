@@ -25,6 +25,8 @@
 - [حزمة تطبيق الحدث](event-application-pack.md)
 - [الفهارس والمنشورات صفحة واحدة](indexes-and-publications-one-pager.md)
 - [خريطة الشبكة المحيطية](ocean-network-map.md)
+- [اطلس المجتمعات المحيطية](ocean-communities-atlas.md)
+- [نماذج المنظمات غير الربحية والتبرع للمحيط](ocean-nonprofit-giving-models.md)
 - [نسخة المهمة العامة](mission-copy.md)
 - [مهمة](../../docs/ar/mission.md)
 - [خريطة الطريق](../../docs/ar/roadmap.md)

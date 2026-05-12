@@ -16,3 +16,5 @@ Ocean Fund 公共层中文导航。
 - [公共使命公式](mission-copy.md)
 - [索引和出版物](indexes-and-publications-one-pager.md)
 - [海洋网络地图](ocean-network-map.md)
+- [海洋社群图谱](ocean-communities-atlas.md)
+- [海洋公益与捐赠模式](ocean-nonprofit-giving-models.md)

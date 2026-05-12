@@ -16,3 +16,5 @@ English navigation for the public Ocean Fund layer.
 - [Public mission formula](mission-copy.md)
 - [Indexes and publications](indexes-and-publications-one-pager.md)
 - [Ocean Network Map](ocean-network-map.md)
+- [Ocean Communities Atlas](ocean-communities-atlas.md)
+- [Ocean Nonprofit and Giving Models](ocean-nonprofit-giving-models.md)

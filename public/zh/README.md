@@ -25,6 +25,8 @@
 - [活动应用包](event-application-pack.md)
 - [索引和出版物单页](indexes-and-publications-one-pager.md)
 - [海洋网络地图](ocean-network-map.md)
+- [海洋社群图谱](ocean-communities-atlas.md)
+- [海洋公益与捐赠模式](ocean-nonprofit-giving-models.md)
 - [公共任务副本](mission-copy.md)
 - [使命](../../docs/zh/mission.md)
 - [路线图](../../docs/zh/roadmap.md)

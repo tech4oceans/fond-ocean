@@ -16,3 +16,5 @@ Navigation française de la couche publique d’Ocean Fund.
 - [Formule mission publique](mission-copy.md)
 - [Index et publications](indexes-and-publications-one-pager.md)
 - [Carte du reseau oceanique](ocean-network-map.md)
+- [Atlas des communautes oceaniques](ocean-communities-atlas.md)
+- [Modeles associatifs et de dons oceaniques](ocean-nonprofit-giving-models.md)

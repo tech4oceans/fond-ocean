@@ -16,3 +16,5 @@ Navegación en español de la capa pública de Ocean Fund.
 - [Fórmula de misión pública](mission-copy.md)
 - [Índices y publicaciones](indexes-and-publications-one-pager.md)
 - [Mapa de la red oceanica](ocean-network-map.md)
+- [Atlas de comunidades oceanicas](ocean-communities-atlas.md)
+- [Modelos oceanicos de ONG y donacion](ocean-nonprofit-giving-models.md)

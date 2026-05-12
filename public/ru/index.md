@@ -16,3 +16,5 @@ title: Публичный слой Ocean Fund
 - [Публичная миссионная формула](mission-copy.md)
 - [Индексы и публикации](indexes-and-publications-one-pager.md)
 - [Карта океанической сети](ocean-network-map.md)
+- [Атлас океанических сообществ](ocean-communities-atlas.md)
+- [Некоммерческие океанические фонды и модели пожертвований](ocean-nonprofit-giving-models.md)

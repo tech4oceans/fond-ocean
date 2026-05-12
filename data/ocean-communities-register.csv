@@ -1,0 +1,26 @@
+slug,name,community_type,scope,entry_mode,official_url
+ocean-decade,Ocean Decade,UN ocean science coordination,global,"programs, actions, public engagement",https://oceandecade.org/
+genocean,GenOcean,public mobilization campaign,global,campaign and citizen participation,https://oceandecade.org/genocean/
+goos,GOOS,global observing system,global,"observation, forecasting, operations",https://goosocean.org/what-we-do/
+obis,OBIS,marine biodiversity data infrastructure,global,open biodiversity records and nodes,https://portal.obis.org/about/
+copernicus-marine,Copernicus Marine,marine data and forecasting,global/europe,open data store and services,https://marine.copernicus.eu/about
+emodnet,EMODnet,marine data network,europe,interoperable marine data domains,https://emodnet.ec.europa.eu/en/about-emodnet
+ocean-conservancy,Ocean Conservancy,ocean nonprofit and action network,global,"campaigns, action center, cleanup, giving",https://oceanconservancy.org/
+mission-blue,Mission Blue,hope spots and coalition network,global,partner network and public support,https://missionblue.org/partners/
+oceana,Oceana,ocean advocacy nonprofit,global,"advocacy, membership, monthly giving",https://oceana.org/waystogive
+surfrider,Surfrider Foundation,activist chapter network,coasts/global audience,membership and chapter action,https://www.surfrider.org/join
+ocean-cleanup,The Ocean Cleanup,technology and cleanup movement,global,donor and corporate support,https://theoceancleanup.com/donate/
+coral-reef-alliance,Coral Reef Alliance,reef conservation nonprofit,global reefs,direct giving and resilience funds,https://coral.org/en/impact/
+reef-check,Reef Check,citizen science reef nonprofit,global reefs,"membership, monthly, adopt-a-reef",https://www.reefcheck.org/donate/
+oceanic-society,Oceanic Society,ocean nonprofit and member community,global,"membership, travel, adoption, legacy",https://www.oceanicsociety.org/donate/
+ocean-worlds,NASA Ocean Worlds,planetary ocean worlds science,solar system,ocean worlds framing and resources,https://science.nasa.gov/solar-system/ocean-worlds
+astrobiology,NASA Astrobiology,life in the universe research community,global/space,"research, education, conferences",https://astrobiology.nasa.gov/about/
+moon-to-mars,Moon to Mars,moon and mars exploration community,moon/mars,"toolkits, architecture, exploration",https://science.nasa.gov/toolkit/moon-to-mars/
+leag,LEAG,lunar exploration analysis group,moon,community forum and lunar participation,https://www.lpi.usra.edu/leag/LEAG_ToR_022025_Final.pdf
+mars-exploration,Mars Exploration Program,mars science and exploration,mars,"science goals, workshops, future plan",https://science.nasa.gov/planetary-science/programs/mars-exploration/
+vexag,VEXAG,venus exploration analysis group,venus,community forum and strategy,https://www.lpi.usra.edu/vexag/
+mexag,MExAG,mercury exploration assessment group,mercury,open membership and mailing list,https://www.lpi.usra.edu/mexag/
+opag,OPAG,outer planets assessment group,outer planets/ocean worlds,community forum for outer planets,https://www.lpi.usra.edu/opag/
+europa-clipper,Europa Clipper,europa mission community,jupiter moons,mission resources and updates,https://europa.nasa.gov/mission/about/
+venus-exploration,NASA Venus Exploration,venus science program,venus,mission and exploration resources,https://science.nasa.gov/venus/exploration/
+mercury-exploration,NASA Mercury Exploration,mercury science program,mercury,missions and exploration resources,https://science.nasa.gov/mercury/exploration/

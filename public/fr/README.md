@@ -25,6 +25,8 @@ L’actif de soutien suivant doit être présent chaque fois que le projet est u
 - [Pack d'applications pour événements](event-application-pack.md)
 - [Index et publications en une seule page](indexes-and-publications-one-pager.md)
 - [Carte du reseau oceanique](ocean-network-map.md)
+- [Atlas des communautes oceaniques](ocean-communities-atlas.md)
+- [Modeles associatifs et de dons oceaniques](ocean-nonprofit-giving-models.md)
 - [Copie de mission publique](mission-copy.md)
 - [Mission](../../docs/fr/mission.md)
 - [Feuille de route](../../docs/fr/roadmap.md)
