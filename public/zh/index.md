@@ -15,3 +15,4 @@ Ocean Fund 公共层中文导航。
 - [活动请求包](event-application-pack.md)
 - [公共使命公式](mission-copy.md)
 - [索引和出版物](indexes-and-publications-one-pager.md)
+- [海洋网络地图](ocean-network-map.md)

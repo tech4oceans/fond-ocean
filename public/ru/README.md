@@ -15,6 +15,7 @@ The following supporting asset should be present whenever the project is used fo
 - [Conference / Exhibition One-Pager](conference-exhibition-one-pager.md) as the compact event-facing brief.
 - [Event Application Pack](event-application-pack.md) as the reusable submission and organizer pack.
 - [Indexes and Publications One-Pager](indexes-and-publications-one-pager.md) as the knowledge-system brief.
+- [Ocean Network Map](ocean-network-map.md) as the ecosystem-facing orientation brief.
 
 ## Current entry points
 
@@ -23,6 +24,7 @@ The following supporting asset should be present whenever the project is used fo
 - [Conference / Exhibition One-Pager](conference-exhibition-one-pager.md)
 - [Event Application Pack](event-application-pack.md)
 - [Indexes and Publications One-Pager](indexes-and-publications-one-pager.md)
+- [Ocean Network Map](ocean-network-map.md)
 - [Public Mission Copy](mission-copy.md)
 - [Mission](../docs/mission.md)
 - [Roadmap](../docs/roadmap.md)

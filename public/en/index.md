@@ -15,3 +15,4 @@ English navigation for the public Ocean Fund layer.
 - [Package for event requests](event-application-pack.md)
 - [Public mission formula](mission-copy.md)
 - [Indexes and publications](indexes-and-publications-one-pager.md)
+- [Ocean Network Map](ocean-network-map.md)

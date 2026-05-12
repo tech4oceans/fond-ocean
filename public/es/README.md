@@ -15,6 +15,7 @@ El siguiente activo de apoyo debe estar presente siempre que el proyecto se util
 - [Conferencia / Exposición de una página](conference-exhibition-one-pager.md) as the compact event-facing brief.
 - [Paquete de solicitud de evento] (event-application-pack.md) como paquete reutilizable de envío y organizador.
 - [Índices y publicaciones de una página](indexes-and-publications-one-pager.md) as the knowledge-system brief.
+- [Mapa de la red oceanica](ocean-network-map.md) como dossier de orientacion hacia el ecosistema.
 
 ## Puntos de entrada actuales
 
@@ -23,6 +24,7 @@ El siguiente activo de apoyo debe estar presente siempre que el proyecto se util
 - [Conferencia / Exposición de una página](conference-exhibition-one-pager.md)
 - [Paquete de aplicación para eventos](event-application-pack.md)
 - [Índices y publicaciones de una página](indexes-and-publications-one-pager.md)
+- [Mapa de la red oceanica](ocean-network-map.md)
 - [Copia de la misión pública](mission-copy.md)
 - [Misión](../../docs/es/mission.md)
 - [Hoja de ruta](../../docs/es/roadmap.md)

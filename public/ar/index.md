@@ -15,3 +15,4 @@ title: الطبقة العامة لـ Ocean Fund
 - [حزمة لطلبات الحدث](event-application-pack.md)
 - [صيغة المهمة العامة](mission-copy.md)
 - [الفهارس والمنشورات](indexes-and-publications-one-pager.md)
+- [خريطة الشبكة المحيطية](ocean-network-map.md)

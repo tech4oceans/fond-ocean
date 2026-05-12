@@ -15,6 +15,7 @@
 - [مؤتمر / معرض صفحة واحدة](conference-exhibition-one-pager.md) as the compact event-facing brief.
 - [حزمة تطبيق الحدث](event-application-pack.md) as the reusable submission and organizer pack.
 - [الفهارس والمنشورات صفحة واحدة](indexes-and-publications-one-pager.md) as the knowledge-system brief.
+- [خريطة الشبكة المحيطية](ocean-network-map.md) كملف توجيهي نحو المنظومة.
 
 ## نقاط الدخول الحالية
 
@@ -23,6 +24,7 @@
 - [مؤتمر / معرض صفحة واحدة](conference-exhibition-one-pager.md)
 - [حزمة تطبيق الحدث](event-application-pack.md)
 - [الفهارس والمنشورات صفحة واحدة](indexes-and-publications-one-pager.md)
+- [خريطة الشبكة المحيطية](ocean-network-map.md)
 - [نسخة المهمة العامة](mission-copy.md)
 - [مهمة](../../docs/ar/mission.md)
 - [خريطة الطريق](../../docs/ar/roadmap.md)

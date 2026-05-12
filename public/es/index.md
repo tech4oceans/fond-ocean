@@ -15,3 +15,4 @@ Navegación en español de la capa pública de Ocean Fund.
 - [Paquete para solicitudes de eventos](event-application-pack.md)
 - [Fórmula de misión pública](mission-copy.md)
 - [Índices y publicaciones](indexes-and-publications-one-pager.md)
+- [Mapa de la red oceanica](ocean-network-map.md)

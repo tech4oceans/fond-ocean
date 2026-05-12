@@ -15,3 +15,4 @@ title: Публичный слой Ocean Fund
 - [Пакет для event-заявок](event-application-pack.md)
 - [Публичная миссионная формула](mission-copy.md)
 - [Индексы и публикации](indexes-and-publications-one-pager.md)
+- [Карта океанической сети](ocean-network-map.md)

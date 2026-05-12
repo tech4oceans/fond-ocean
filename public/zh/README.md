@@ -15,6 +15,7 @@
 - [会议/展览单页机](conference-exhibition-one-pager.md) as the compact event-facing brief.
 - [活动应用包](event-application-pack.md) as the reusable submission and organizer pack.
 - [索引和出版物单页](indexes-and-publications-one-pager.md) as the knowledge-system brief.
+- [海洋网络地图](ocean-network-map.md) 作为面向生态系统的导向 brief。
 
 ## 当前入口点
 
@@ -23,6 +24,7 @@
 - [会议/展览单页机](conference-exhibition-one-pager.md)
 - [活动应用包](event-application-pack.md)
 - [索引和出版物单页](indexes-and-publications-one-pager.md)
+- [海洋网络地图](ocean-network-map.md)
 - [公共任务副本](mission-copy.md)
 - [使命](../../docs/zh/mission.md)
 - [路线图](../../docs/zh/roadmap.md)

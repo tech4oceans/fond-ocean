@@ -15,6 +15,7 @@ L’actif de soutien suivant doit être présent chaque fois que le projet est u
 - [Conférence/Exposition One-Pager](conference-exhibition-one-pager.md) comme dossier compact destiné à l'événement.
 - [Pack d'applications pour événements](event-application-pack.md) comme pack de soumission et d'organisation réutilisable.
 - [Index et publications en une seule page](indexes-and-publications-one-pager.md) as the knowledge-system brief.
+- [Carte du reseau oceanique](ocean-network-map.md) comme dossier d'orientation vers l'ecosysteme.
 
 ## Points d'entrée actuels
 
@@ -23,6 +24,7 @@ L’actif de soutien suivant doit être présent chaque fois que le projet est u
 - [Conférence/Exposition One-Pager](conference-exhibition-one-pager.md)
 - [Pack d'applications pour événements](event-application-pack.md)
 - [Index et publications en une seule page](indexes-and-publications-one-pager.md)
+- [Carte du reseau oceanique](ocean-network-map.md)
 - [Copie de mission publique](mission-copy.md)
 - [Mission](../../docs/fr/mission.md)
 - [Feuille de route](../../docs/fr/roadmap.md)
