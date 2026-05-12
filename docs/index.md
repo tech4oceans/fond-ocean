@@ -2,7 +2,9 @@
 
 Open project hub for ocean, climate, biodiversity, marine data, education, AI, and partnerships.
 
-Ocean Fund builds an open research, education, and technology infrastructure around ocean protection, marine ecosystems, public knowledge, and international collaboration.
+From the ocean of Earth to the ocean of space.
+
+Ocean Fund builds an open research, education, and technology infrastructure around ocean protection, marine ecosystems, public knowledge, and international collaboration. The hub connects marine science, Earth observation, education, and exploration across both the ocean of Earth and the ocean of space.
 
 ## Start Here
 
@@ -19,6 +21,7 @@ Ocean Fund builds an open research, education, and technology infrastructure aro
 - outreach and partnership materials
 - project management and startup backlog
 - GitHub participation paths through issues and discussions
+- an ocean-to-space narrative for public science, satellite data, and long-horizon exploration
 
 ## Participation
 

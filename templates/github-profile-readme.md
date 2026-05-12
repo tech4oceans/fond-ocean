@@ -2,13 +2,16 @@
 
 Open project hub for ocean, climate, biodiversity, marine data, education, AI, and partnerships.
 
-Ocean Fund is building an open public workspace for ocean research, marine data, climate literacy, education, partnership development, and applied technology. The goal is to make the project legible, collaborative, and useful from the very beginning.
+From the ocean of Earth to the ocean of space.
+
+Ocean Fund is building an open public workspace for ocean research, marine data, climate literacy, education, partnership development, and applied technology. The goal is to make the project legible, collaborative, and useful from the very beginning while linking marine science, Earth observation, and long-horizon exploration.
 
 ## What We Focus On
 
 - ocean and climate;
 - biodiversity and marine ecosystems;
 - open marine data and research infrastructure;
+- Earth observation, satellite data, and ocean-to-space framing;
 - education, outreach, and public materials;
 - partnerships with universities, museums, nonprofits, and scientific communities.
 

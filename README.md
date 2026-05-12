@@ -2,7 +2,9 @@
 
 Open project hub for ocean, climate, biodiversity, marine data, education, AI, and partnerships.
 
-Ocean Fund builds an open research, education, and technology infrastructure around ocean protection, marine ecosystems, public knowledge, and international collaboration. This repository is the project's public workspace: mission, research directions, data registry, outreach materials, roadmap, and contribution paths live here.
+> From the ocean of Earth to the ocean of space.
+
+Ocean Fund builds an open research, education, and technology infrastructure around ocean protection, marine ecosystems, public knowledge, and international collaboration. The project links the ocean of Earth with the ocean of space through marine science, satellite data, education, exploration, and long-horizon public imagination. This repository is the project's public workspace: mission, research directions, data registry, outreach materials, roadmap, and contribution paths live here.
 
 > Status: early public stage. The structure is already open for participation, while texts, materials, and public settings are still being refined.
 
@@ -43,9 +45,9 @@ The ocean sits at the intersection of climate, biodiversity, education, science 
 | Focus area | Scope |
 | --- | --- |
 | Ocean research | Biodiversity, climate, marine ecosystems, pollution, bathymetry |
-| Data and infrastructure | Dataset registry, source validation, notebooks, visualizations |
+| Data and infrastructure | Dataset registry, source validation, notebooks, visualizations, Earth observation |
 | Education and literacy | Public materials, lectures, exhibitions, explainers |
-| Ocean technology | Sensors, satellite data, analytics, tooling, AI workflows |
+| Ocean technology | Sensors, satellite data, analytics, tooling, AI workflows, ocean-to-space framing |
 | Partnerships | Universities, museums, nonprofits, conferences, labs, public institutions |
 
 ## How To Participate

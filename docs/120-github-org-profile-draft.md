@@ -4,22 +4,24 @@
 
 ## Short Bio
 
-`Open projects for ocean, climate, biodiversity, marine data, education, and public-interest technology.`
+`From the ocean of Earth to the ocean of space: open projects for ocean, climate, biodiversity, marine data, education, and public-interest technology.`
 
 ## Organization Description
 
-`tech4oceans` can act as the public GitHub layer for Ocean Fund and adjacent open initiatives related to marine ecosystems, climate literacy, open science, and collaboration infrastructure.
+`tech4oceans` can act as the public GitHub layer for Ocean Fund and adjacent open initiatives related to marine ecosystems, climate literacy, open science, Earth observation, and collaboration infrastructure.
 
 Если нужен более фокусный вариант именно под фонд:
 
-`Ocean Fund builds open research, data, education, and partnership infrastructure around the ocean, climate, biodiversity, and public knowledge.`
+`Ocean Fund builds open research, data, education, and partnership infrastructure from the ocean of Earth to the ocean of space.`
 
 ## Profile README Draft
 
 ```md
 # tech4oceans
 
-Open GitHub space for Ocean Fund and related public-interest work across ocean, climate, biodiversity, marine data, education, and collaboration infrastructure.
+From the ocean of Earth to the ocean of space.
+
+Open GitHub space for Ocean Fund and related public-interest work across ocean, climate, biodiversity, marine data, education, Earth observation, and collaboration infrastructure.
 
 ## Start Here
 
@@ -29,6 +31,7 @@ Open GitHub space for Ocean Fund and related public-interest work across ocean, 
 
 - ocean research and public knowledge
 - marine data and open science
+- Earth observation and ocean-to-space exploration language
 - education and literacy
 - partnership development
 - public-ready documentation and infrastructure
