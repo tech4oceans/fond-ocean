@@ -5,7 +5,18 @@ title: Ocean Fund Articles
 
 # Ocean Fund Articles
 
-Тестовый публичный набор коротких статей фонда «Океан».
+Публичная колонка фонда «Океан».
+
+## UN Languages
+
+Ocean Fund runs its public article layer in the six official languages of the United Nations:
+
+- [Arabic / العربية](ar/index.md)
+- [Chinese / 中文](zh/index.md)
+- [English](en/index.md)
+- [French / Francais](fr/index.md)
+- [Russian / Русский](ru/index.md)
+- [Spanish / Espanol](es/index.md)
 
 ## Wave 1
 
@@ -36,4 +47,4 @@ title: Ocean Fund Articles
 
 ## Note
 
-These articles are published as an early public Ocean Fund column for indexing, visibility, and outreach testing across GitHub and Pages.
+These articles are published as an early public Ocean Fund column for indexing, visibility, multilingual outreach, and GitHub Pages growth.

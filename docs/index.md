@@ -8,11 +8,24 @@ Ocean Fund builds an open research, education, and technology infrastructure aro
 
 ## Start Here
 
+- [For Partners](../public/partners.md)
+- [Partner One-Pager](../public/partner-one-pager.md)
+- [Conference / Exhibition One-Pager](../public/conference-exhibition-one-pager.md)
+- [Event Application Pack](../public/event-application-pack.md)
+- [Indexes and Publications](../public/indexes-and-publications-one-pager.md)
+- [Multilingual Article Column](articles/index.md)
+- [Public Mission Copy](../public/mission-copy.md)
 - [Mission](mission.md)
 - [Roadmap](roadmap.md)
 - [Research Directions](research-directions.md)
 - [Data Sources](data-sources.md)
-- [For Partners](../public/partners.md)
+
+## Mandatory Public Entry Layer
+
+The public GitHub and Pages showcase of Ocean Fund is considered incomplete unless it includes:
+
+- a partner-facing entry page;
+- an approved public mission copy.
 
 ## What This Hub Contains
 

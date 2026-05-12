@@ -8,6 +8,15 @@ Ocean Fund builds an open research, education, and technology infrastructure aro
 
 > Status: early public stage. The structure is already open for participation, while texts, materials, and public settings are still being refined.
 
+## Mandatory Public Entry Layer
+
+For Ocean Fund, two public-facing layers are mandatory and not optional:
+
+- a partner-facing showcase that gives institutions a safe and clear first route into the project;
+- an approved public mission copy that explains the project in short, medium, and extended form.
+
+If these two layers are missing, the public GitHub entrance should be treated as incomplete.
+
 ## What This Is
 
 This repository is the main GitHub hub for Ocean Fund. It is meant to look and function like a serious open initiative, not a random dump of notes. Visitors should be able to understand the mission, see the structure, and find a clear way to contribute.
@@ -23,6 +32,7 @@ The ocean sits at the intersection of climate, biodiversity, education, science 
 | Mission and governance | Public framing, mission drafts, glossary, governance notes |
 | Research | Priority directions, topic mapping, future issue backlog |
 | Data | Open-source registry, source map, notebook structure |
+| Indexes and publications | Internal-to-public index logic, site audit, publication-ready outputs |
 | Outreach | Partner emails, conference templates, collaboration formats |
 | Presentations | Intro, partner, conference, and exhibition deck outlines |
 | Project management | Backlog, next 30/90 days, decision log |
@@ -30,11 +40,17 @@ The ocean sits at the intersection of climate, biodiversity, education, science 
 
 ## Where To Go Next
 
+- If you represent an organization, start with [For Partners](public/partners.md)
+- Use the compact [Partner One-Pager](public/partner-one-pager.md)
+- Use the event-facing [Conference / Exhibition One-Pager](public/conference-exhibition-one-pager.md)
+- Use the ready [Event Application Pack](public/event-application-pack.md)
+- Review [Indexes and Publications](public/indexes-and-publications-one-pager.md)
+- Browse the [Multilingual Article Column](docs/articles/index.md)
+- Read the public [Mission Copy](public/mission-copy.md)
 - Start with [Mission](docs/mission.md)
 - See the [Roadmap](docs/roadmap.md)
 - Browse [Research Directions](docs/research-directions.md)
 - Explore [Data Sources](docs/data-sources.md)
-- If you represent an organization, start with [For Partners](public/partners.md)
 - Open [Outreach Materials](outreach/README.md)
 - Review [Presentations](presentations/README.md)
 - Check the [Backlog](project-management/backlog.md)
@@ -46,6 +62,7 @@ The ocean sits at the intersection of climate, biodiversity, education, science 
 | --- | --- |
 | Ocean research | Biodiversity, climate, marine ecosystems, pollution, bathymetry |
 | Data and infrastructure | Dataset registry, source validation, notebooks, visualizations, Earth observation |
+| Indexes and publication systems | Index registers, site inventories, publication queues, public-safe summaries |
 | Education and literacy | Public materials, lectures, exhibitions, explainers |
 | Ocean technology | Sensors, satellite data, analytics, tooling, AI workflows, ocean-to-space framing |
 | Partnerships | Universities, museums, nonprofits, conferences, labs, public institutions |
@@ -60,9 +77,11 @@ The ocean sits at the intersection of climate, biodiversity, education, science 
 Good first contributions:
 
 - add one verified open marine data source;
+- improve an index register, atlas, or publication queue;
 - refine a glossary term or mission paragraph;
 - propose a research question;
 - improve a partner or conference template;
+- improve an event, exhibition, or forum entry page;
 - clean up repository structure or documentation;
 - help prepare the first public-facing GitHub showcase.
 
@@ -88,8 +107,17 @@ The outreach section is prepared for universities, museums, research centers, no
 Recommended public path for institutional visitors:
 
 1. Read [For Partners](public/partners.md).
-2. Review [Partnerships](docs/partners.md).
-3. Use Discussions for open exploration or the `Partner lead` issue template for a concrete, trackable next step.
+2. Use the compact [Partner One-Pager](public/partner-one-pager.md).
+3. Read the public [Mission Copy](public/mission-copy.md).
+4. Review [Partnerships](docs/partners.md).
+5. Use Discussions for open exploration or the `Partner lead` issue template for a concrete, trackable next step.
+
+Recommended system path for index, publication, and repository work:
+
+1. Read [Indexes and Publications](public/indexes-and-publications-one-pager.md).
+2. Review the [Indexes Register](data/indexes-register.md).
+3. Use the [Repository Engagement Playbook](outreach/repository-engagement-playbook.md).
+4. Convert verified themes into docs, research, outreach, and event actions.
 
 Current public contact placeholders:
 
