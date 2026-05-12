@@ -25,7 +25,7 @@ Open GitHub space for Ocean Fund and related public-interest work across ocean, 
 
 ## Start Here
 
-- [fond-ocean](https://github.com/tech4oceans/fond-ocean) — main public hub
+- [fund-ocean](https://github.com/tech4oceans/fund-ocean) — main public hub
 
 ## What This Space Is For
 
@@ -55,7 +55,7 @@ Open GitHub space for Ocean Fund and related public-interest work across ocean, 
 
 Рекомендуемый порядок:
 
-1. `fond-ocean`
+1. `fund-ocean`
 2. public website or Pages repo
 3. datasets or notebooks repo
 4. presentations or media-kit repo

@@ -1,6 +1,6 @@
 # GitHub Discussions And Triage
 
-Этот документ нужен как рабочая схема для Discussions, labels и стартовой модерации в `tech4oceans/fond-ocean`.
+Этот документ нужен как рабочая схема для Discussions, labels и стартовой модерации в `tech4oceans/fund-ocean`.
 
 ## Discussion Entry Points
 

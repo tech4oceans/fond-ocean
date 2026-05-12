@@ -1,6 +1,6 @@
 # GitHub Launch Kit
 
-Этот документ фиксирует практическую конфигурацию запуска `tech4oceans/fond-ocean` как публичного GitHub hub.
+Этот документ фиксирует практическую конфигурацию запуска `tech4oceans/fund-ocean` как публичного GitHub hub.
 
 Статус на `2026-05-12`:
 
@@ -97,7 +97,7 @@
 
 Если профиль `tech4oceans` используется как публичная точка входа, рекомендованный порядок такой:
 
-1. `fond-ocean`
+1. `fund-ocean`
 2. public website / Pages repo
 3. data or notebooks repo
 4. presentations or media kit repo

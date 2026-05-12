@@ -17,7 +17,7 @@ Ocean Fund is building an open public workspace for ocean research, marine data,
 
 ## Main Repository
 
-- [fond-ocean](https://github.com/tech4oceans/fond-ocean)
+- [fund-ocean](https://github.com/tech4oceans/fund-ocean)
 
 ## How To Participate
 
@@ -28,7 +28,7 @@ Ocean Fund is building an open public workspace for ocean research, marine data,
 
 ## Good Pinned Repositories
 
-- `fond-ocean`
+- `fund-ocean`
 - public website or GitHub Pages repository
 - data or notebooks repository
 - presentations or media-kit repository
