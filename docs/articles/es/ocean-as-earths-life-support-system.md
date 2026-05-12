@@ -5,6 +5,8 @@ title: "El oceano como sistema de soporte vital de la Tierra"
 
 # El oceano como sistema de soporte vital de la Tierra
 
+![ocean-as-earths-life-support-system preview](../../../assets/article-previews/ocean-as-earths-life-support-system.svg)
+
 Cuando la gente piensa en el oceano, suele imaginar agua, costas, tormentas, peces, barcos o hermosos horizontes azules. Pero el oceano no importa solo como paisaje o como recurso. Funciona como uno de los principales sistemas de soporte vital de la Tierra.
 
 El oceano ayuda a regular el clima del planeta. Absorbe una gran parte del calor excedente generado por el aumento de los gases de efecto invernadero en la atmosfera. Sin ese amortiguador, la alteracion climatica sobre la tierra firme seria aun mas intensa y destructiva. El oceano tambien participa en el ciclo global del carbono mediante procesos fisicos, quimicos y biologicos.
@@ -18,3 +20,4 @@ Al mismo tiempo, el oceano sigue siendo parcialmente desconocido. Sabemos mucho 
 Por eso el oceano no puede seguir siendo solo un tema para circulos de especialistas. El conocimiento oceanico debe incorporarse a la educacion, la ciencia publica, el trabajo con datos, la cultura y la cooperacion internacional. Se necesita no solo investigacion, sino tambien traduccion del conocimiento en mapas, ensayos, visualizaciones, conferencias, registros abiertos de datos y plataformas de interes publico.
 
 Para Ocean Fund, el oceano no es un tema azul abstracto, sino un sistema vivo central del planeta. Si la sociedad quiere comprender el clima, la resiliencia, la biodiversidad y el futuro de las regiones costeras, necesita un lenguaje claro para pensar el oceano. Por eso el oceano debe tratarse no como un fondo, sino como uno de los principales objetos del conocimiento publico del siglo XXI.
+

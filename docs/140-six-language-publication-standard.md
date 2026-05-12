@@ -21,7 +21,12 @@ Public article series, major essays, flagship one-pagers, and reusable public pu
 2. English, Arabic, Chinese, French, and Spanish should be added as part of the backfill queue.
 3. The article hub must expose language landing pages even before every full text is fully translated.
 4. Translation status must be tracked in a register.
+5. Multilingual public materials should preserve their thematic preview image layer across language versions.
 
 ## Current register
 
 See [data/article-translation-register.csv](../data/article-translation-register.csv).
+
+## Visual layer
+
+See the [visual publication standard](150-visual-publication-standard.md).

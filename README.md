@@ -46,6 +46,7 @@ The ocean sits at the intersection of climate, biodiversity, education, science 
 - Use the ready [Event Application Pack](public/event-application-pack.md)
 - Review [Indexes and Publications](public/indexes-and-publications-one-pager.md)
 - Browse the [Multilingual Article Column](docs/articles/index.md)
+- Review the [Visual Publication Standard](docs/150-visual-publication-standard.md)
 - Read the public [Mission Copy](public/mission-copy.md)
 - Start with [Mission](docs/mission.md)
 - See the [Roadmap](docs/roadmap.md)
