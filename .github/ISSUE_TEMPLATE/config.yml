@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Start a public discussion
+    url: https://github.com/tech4oceans/fond-ocean/discussions
+    about: Use Discussions for questions, ideas, open planning, and community conversation.
+  - name: Partnership intake guide
+    url: https://github.com/tech4oceans/fond-ocean/blob/main/public/partners.md
+    about: Start here if you represent a university, museum, lab, nonprofit, conference, or public institution.
+  - name: Security policy
+    url: https://github.com/tech4oceans/fond-ocean/blob/main/SECURITY.md
+    about: Read the repository security and responsible disclosure guidance before reporting a security issue.

@@ -1,0 +1,34 @@
+title: "[Announcement] "
+labels:
+  - announcement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this category for maintainers' public updates.
+
+        Good examples: major structure changes, new public materials, milestone progress, launch notes, and published datasets or events.
+  - type: input
+    id: summary
+    attributes:
+      label: Announcement summary
+      description: One short headline for the update
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: What changed
+      description: Describe the update in a concise public-facing way.
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Useful links
+      description: Add links to files, issues, pages, releases, or relevant public materials.
+  - type: textarea
+    id: next
+    attributes:
+      label: What happens next
+      description: Optional next steps for contributors or partners.

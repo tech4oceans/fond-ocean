@@ -1,0 +1,46 @@
+title: "[Question] "
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask a repository, research, data, or contribution question here.
+
+        Use Q&A when you need orientation or clarification rather than a tracked issue.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What do you need help understanding?
+      placeholder: Ask one clear question.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What have you already looked at in the repository?
+      placeholder: README, roadmap, one data source page, one outreach template, etc.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - Mission and governance
+        - Research
+        - Data
+        - Outreach
+        - Partnerships
+        - Presentations
+        - GitHub workflow
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: blocker
+    attributes:
+      label: What is blocking you
+      description: Explain the confusion, missing context, or decision point.
+    validations:
+      required: true

@@ -1,0 +1,51 @@
+title: "[Idea] "
+labels:
+  - idea
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share one concrete idea that could improve Ocean Fund.
+
+        Use this category for open-ended suggestions about research, data, education, outreach, tooling, governance, and public presentation.
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Idea
+      description: What exactly do you suggest?
+      placeholder: Propose one idea in a short, clear paragraph.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Research
+        - Data
+        - Education
+        - Partnerships
+        - Public website
+        - Governance
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: mission-fit
+    attributes:
+      label: Why it fits the mission
+      description: Explain why this is relevant for ocean protection, climate, biodiversity, public knowledge, or open infrastructure.
+    validations:
+      required: true
+  - type: textarea
+    id: next-step
+    attributes:
+      label: Practical next step
+      description: Suggest the smallest next action that would move this idea forward.
+      placeholder: Open a research issue, verify one source, draft one outline, prepare one page, etc.
+  - type: checkboxes
+    attributes:
+      label: Safety check
+      options:
+        - label: This discussion does not contain private contacts, private documents, credentials, or unverified partnership claims.
+          required: true
