@@ -19,6 +19,7 @@ Preview images are not decoration. They help:
 
 - the preview must be thematic, not generic;
 - it must correspond to the meaning of the text;
+- the language of the preview text must match the language of the publication itself;
 - it must stay public-safe and not imply unverified claims;
 - it should be reusable across language versions of the same material when appropriate;
 - it should be stored in `assets/article-previews/` or another clearly named public asset directory.
@@ -31,3 +32,5 @@ Preview images are not decoration. They help:
 ## Editorial rule
 
 If a public material has no thematic preview image, it should be treated as visually incomplete until one is added.
+
+If the preview image uses a different language from the publication, it should also be treated as incomplete until the language mismatch is fixed.

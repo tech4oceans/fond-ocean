@@ -5,7 +5,7 @@ title: "The Ocean as Earth's Life Support System"
 
 # The Ocean as Earth's Life Support System
 
-![ocean-as-earths-life-support-system preview](../../../assets/article-previews/ocean-as-earths-life-support-system.svg)
+![ocean-as-earths-life-support-system preview](../../../assets/article-previews/en/ocean-as-earths-life-support-system.svg)
 
 When people think about the ocean, they often imagine water, coastlines, storms, fish, ships, or beautiful blue horizons. But the ocean matters not only as scenery or as a resource. It functions as one of Earth's main life support systems.
 
@@ -20,4 +20,5 @@ At the same time, the ocean remains partly unknown. We know much more than we di
 That is why the ocean cannot remain only a topic for narrow expert circles. Ocean knowledge must be built into education, public science, data work, culture, and international cooperation. What is needed is not only research, but also translation of knowledge into maps, essays, visualizations, lectures, open data registers, and public-interest platforms.
 
 For Ocean Fund, the ocean matters not as an abstract blue theme, but as a central living system of the planet. If society wants to understand climate, resilience, biodiversity, and the future of coastal regions, it needs a clear language for thinking about the ocean. That is why the ocean should be treated not as a background, but as one of the main objects of public knowledge in the twenty-first century.
+
 

@@ -5,7 +5,7 @@ title: "L'ocean comme systeme de soutien a la vie sur Terre"
 
 # L'ocean comme systeme de soutien a la vie sur Terre
 
-![ocean-as-earths-life-support-system preview](../../../assets/article-previews/ocean-as-earths-life-support-system.svg)
+![ocean-as-earths-life-support-system preview](../../../assets/article-previews/fr/ocean-as-earths-life-support-system.svg)
 
 Quand on parle de l'ocean, on imagine souvent l'eau, les cotes, les tempetes, les poissons, les navires ou de beaux horizons bleus. Pourtant, l'ocean n'est pas seulement un paysage ou une ressource. Il fonctionne comme l'un des principaux systemes de soutien a la vie sur Terre.
 
@@ -20,4 +20,5 @@ En meme temps, l'ocean reste en partie inconnu. Nous en savons beaucoup plus qu'
 C'est pourquoi l'ocean ne peut pas rester seulement un sujet reserve a des cercles experts. La connaissance oceanique doit entrer dans l'education, la science publique, le travail sur les donnees, la culture et la cooperation internationale. Il faut non seulement de la recherche, mais aussi des traductions de cette connaissance en cartes, essais, visualisations, conferences, registres de donnees ouverts et plateformes d'interet public.
 
 Pour Ocean Fund, l'ocean n'est pas un theme bleu abstrait, mais un systeme vivant central de la planete. Si la societe veut comprendre le climat, la resilience, la biodiversite et l'avenir des regions cotieres, elle a besoin d'un langage clair pour penser l'ocean. C'est pourquoi l'ocean doit etre considere non comme un decor, mais comme l'un des grands objets de connaissance publique du XXIe siecle.
+
 

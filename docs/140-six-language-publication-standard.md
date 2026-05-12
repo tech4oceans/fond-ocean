@@ -22,6 +22,7 @@ Public article series, major essays, flagship one-pagers, and reusable public pu
 3. The article hub must expose language landing pages even before every full text is fully translated.
 4. Translation status must be tracked in a register.
 5. Multilingual public materials should preserve their thematic preview image layer across language versions.
+6. The preview image text must follow the publication language exactly and should not remain in another language.
 
 ## Current register
 

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f5b78"/>
+      <stop offset="1" stop-color="#123a72"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1260 190) rotate(120) scale(620 480)">
+      <stop stop-color="#8de2ff" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#8de2ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" rx="44" fill="url(#bg)"/>
+  <rect x="48" y="48" width="1504" height="804" rx="34" stroke="rgba(255,255,255,0.22)"/>
+  <circle cx="1260" cy="190" r="330" fill="url(#glow)"/>
+  <path d="M0 640C170 610 250 690 390 670C570 645 650 530 865 548C1080 566 1170 730 1365 734C1460 736 1520 710 1600 680V900H0V640Z" fill="rgba(255,255,255,0.08)"/>
+  <path d="M0 705C145 690 235 735 360 728C515 719 644 620 824 632C1010 644 1140 778 1300 790C1415 798 1510 775 1600 742" stroke="rgba(255,255,255,0.22)" stroke-width="4"/>
+  <text x="120" y="150" fill="#EAFBFF" font-family="Arial, Helvetica, sans-serif" font-size="32" letter-spacing="2.2">OCEAN FUND</text>
+  <rect x="120" y="192" width="420" height="52" rx="26" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.18)"/>
+  <text x="152" y="226" fill="#F7FCFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">SYSTEME OCEANIQUE</text>
+  <text x="120" y="380" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700">L'ocean comme</text>
+  <text x="120" y="478" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700">soutien a la vie</text>
+  <text x="120" y="584" fill="#DDF6FF" font-family="Arial, Helvetica, sans-serif" font-size="30">De l'ocean de la Terre a l'ocean de l'espace</text>
+</svg>
