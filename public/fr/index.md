@@ -25,3 +25,4 @@ Navigation française de la couche publique d’Ocean Fund.
 - [Carte des partenaires climat et ecologie](climate-and-ecology-partner-map.md)
 - [Portefeuille des index oceaniques](ocean-indexes-portfolio.md)
 - [Cadre des notations oceaniques](ocean-ratings-framework.md)
+- [Notations océaniques hebdomadaires](weekly-ocean-ratings.md)

@@ -25,3 +25,4 @@ Ocean Fund 公共层中文导航。
 - [气候与生态合作伙伴地图](climate-and-ecology-partner-map.md)
 - [海洋指数组合](ocean-indexes-portfolio.md)
 - [海洋评级框架](ocean-ratings-framework.md)
+- [每周海洋评级](weekly-ocean-ratings.md)

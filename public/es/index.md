@@ -25,3 +25,4 @@ Navegación en español de la capa pública de Ocean Fund.
 - [Mapa de socios de clima y ecologia](climate-and-ecology-partner-map.md)
 - [Cartera de indices oceanicos](ocean-indexes-portfolio.md)
 - [Marco de calificaciones oceanicas](ocean-ratings-framework.md)
+- [Calificaciones oceanicas semanales](weekly-ocean-ratings.md)

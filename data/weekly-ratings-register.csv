@@ -1,0 +1,6 @@
+track_code,track_name,track_type,basis,current_status
+WMR,water-and-monitoring-rating,rating,index-layer + monitoring themes,weekly-line-active
+CCR,coastal-climate-resilience-rating,rating,index-layer + climate/coast themes,weekly-line-active
+FOUR,floating-ocean-urbanism-rating,rating,index-layer + floating-city metrics,weekly-line-active
+POIR,public-ocean-intelligence-rating,rating,index-layer + publication and data translation,weekly-line-active
+OWSW,ocean-worlds-and-space-watch,watch,ocean-worlds routes + space-facing ocean intelligence themes,weekly-line-active

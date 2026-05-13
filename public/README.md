@@ -34,6 +34,7 @@ The following supporting asset should be present whenever the project is used fo
 - [Climate and Ecology Partner Map](climate-and-ecology-partner-map.md)
 - [Ocean Indexes Portfolio](ocean-indexes-portfolio.md)
 - [Ocean Ratings Framework](ocean-ratings-framework.md)
+- [Weekly Ocean Ratings](weekly-ocean-ratings.md)
 - [Public Mission Copy](mission-copy.md)
 - [Mission](../docs/mission.md)
 - [Roadmap](../docs/roadmap.md)

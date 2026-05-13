@@ -25,3 +25,4 @@ title: Публичный слой Ocean Fund
 - [Карта климатических и экологических партнёров](climate-and-ecology-partner-map.md)
 - [Портфель океанических индексов](ocean-indexes-portfolio.md)
 - [Рамка океанических рейтингов](ocean-ratings-framework.md)
+- [Еженедельные океанические рейтинги](weekly-ocean-ratings.md)

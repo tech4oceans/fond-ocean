@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Weekly ocean ratings preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09203f" />
+      <stop offset="50%" stop-color="#0f4c75" />
+      <stop offset="100%" stop-color="#2c7da0" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#caf0f8" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#90e0ef" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#caf0f8" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)" />
+  <circle cx="1030" cy="140" r="92" fill="#ffd166" fill-opacity="0.9" />
+  <path d="M0 420 C140 360 260 360 380 420 S620 480 760 420 1000 360 1280 430 L1280 640 L0 640 Z" fill="url(#wave)" />
+  <path d="M0 470 C150 420 270 425 390 470 S630 520 770 470 1010 420 1280 485" fill="none" stroke="#caf0f8" stroke-width="8" stroke-opacity="0.55" />
+  <path d="M130 250 L310 250 L310 300 L130 300 Z" fill="#ffffff" fill-opacity="0.1" stroke="#caf0f8" stroke-opacity="0.55" stroke-width="3" />
+  <path d="M360 220 L540 220 L540 300 L360 300 Z" fill="#ffffff" fill-opacity="0.12" stroke="#caf0f8" stroke-opacity="0.55" stroke-width="3" />
+  <path d="M590 190 L770 190 L770 300 L590 300 Z" fill="#ffffff" fill-opacity="0.14" stroke="#caf0f8" stroke-opacity="0.55" stroke-width="3" />
+  <path d="M820 160 L1000 160 L1000 300 L820 300 Z" fill="#ffffff" fill-opacity="0.16" stroke="#caf0f8" stroke-opacity="0.55" stroke-width="3" />
+  <path d="M1050 130 L1150 130 L1150 300 L1050 300 Z" fill="#ffffff" fill-opacity="0.18" stroke="#caf0f8" stroke-opacity="0.55" stroke-width="3" />
+  <path d="M170 360 C260 280 390 250 520 250 C705 250 880 315 1030 395" fill="none" stroke="#ffd166" stroke-width="10" stroke-linecap="round" stroke-opacity="0.85" />
+  <circle cx="170" cy="360" r="12" fill="#ffd166" />
+  <circle cx="520" cy="250" r="12" fill="#ffd166" />
+  <circle cx="1030" cy="395" r="12" fill="#ffd166" />
+</svg>

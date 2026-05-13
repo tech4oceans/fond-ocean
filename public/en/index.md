@@ -25,3 +25,4 @@ English navigation for the public Ocean Fund layer.
 - [Climate and Ecology Partner Map](climate-and-ecology-partner-map.md)
 - [Ocean Indexes Portfolio](ocean-indexes-portfolio.md)
 - [Ocean Ratings Framework](ocean-ratings-framework.md)
+- [Weekly Ocean Ratings](weekly-ocean-ratings.md)

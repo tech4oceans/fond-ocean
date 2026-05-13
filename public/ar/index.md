@@ -25,3 +25,4 @@ title: الطبقة العامة لـ Ocean Fund
 - [خريطة شركاء المناخ والبيئة](climate-and-ecology-partner-map.md)
 - [محفظة المؤشرات المحيطية](ocean-indexes-portfolio.md)
 - [اطار التصنيفات المحيطية](ocean-ratings-framework.md)
+- [التصنيفات المحيطية الأسبوعية](weekly-ocean-ratings.md)
