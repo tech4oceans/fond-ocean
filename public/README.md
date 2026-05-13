@@ -35,6 +35,7 @@ The following supporting asset should be present whenever the project is used fo
 - [Ocean Indexes Portfolio](ocean-indexes-portfolio.md)
 - [Ocean Ratings Framework](ocean-ratings-framework.md)
 - [Weekly Ocean Ratings](weekly-ocean-ratings.md)
+- [Ocean Expeditions Atlas](ocean-expeditions-atlas.md)
 - [Public Mission Copy](mission-copy.md)
 - [Mission](../docs/mission.md)
 - [Roadmap](../docs/roadmap.md)

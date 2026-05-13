@@ -26,3 +26,4 @@ English navigation for the public Ocean Fund layer.
 - [Ocean Indexes Portfolio](ocean-indexes-portfolio.md)
 - [Ocean Ratings Framework](ocean-ratings-framework.md)
 - [Weekly Ocean Ratings](weekly-ocean-ratings.md)
+- [Ocean Expeditions Atlas](ocean-expeditions-atlas.md)

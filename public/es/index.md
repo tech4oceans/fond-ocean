@@ -26,3 +26,4 @@ Navegación en español de la capa pública de Ocean Fund.
 - [Cartera de indices oceanicos](ocean-indexes-portfolio.md)
 - [Marco de calificaciones oceanicas](ocean-ratings-framework.md)
 - [Calificaciones oceanicas semanales](weekly-ocean-ratings.md)
+- [Atlas de expediciones oceanicas](ocean-expeditions-atlas.md)

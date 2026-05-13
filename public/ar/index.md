@@ -26,3 +26,4 @@ title: الطبقة العامة لـ Ocean Fund
 - [محفظة المؤشرات المحيطية](ocean-indexes-portfolio.md)
 - [اطار التصنيفات المحيطية](ocean-ratings-framework.md)
 - [التصنيفات المحيطية الأسبوعية](weekly-ocean-ratings.md)
+- [أطلس البعثات المحيطية](ocean-expeditions-atlas.md)

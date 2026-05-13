@@ -1,0 +1,11 @@
+route_code,route_name,kind,public_anchor,status
+CALYPSO,cousteau-calypso-public-expedition-line,historical,https://www.cousteau.org/legacy/vessels/calypso/,tracked
+NOAAOE,noaa-ocean-exploration,public-program,https://oceanexplorer.noaa.gov/,tracked
+OKEANOS,okeanos-explorer,ship,https://oceanexplorer.noaa.gov/okeanos/about/,tracked
+SOI,schmidt-ocean-institute,expedition-institute,https://schmidtocean.org/,tracked
+SOIEXP,schmidt-ocean-institute-expeditions,field-season,https://schmidtocean.org/cruises/schmidt-ocean-institute-2025-expeditions/,tracked
+OCEANX,oceanx,expedition-media-system,https://oceanx.org/,tracked
+NAUTILUS,ocean-exploration-trust-nautilus-live,telepresence-program,https://nautiluslive.org/,tracked
+EVN,e-v-nautilus,ship,https://nautiluslive.org/tech/ev-nautilus,tracked
+MBARI,mbari-expeditions,science-engineering-program,https://www.mbari.org/expeditions/,tracked
+OCENSUS,ocean-census-expeditions,biodiversity-program,https://oceancensus.org/expeditions/,tracked

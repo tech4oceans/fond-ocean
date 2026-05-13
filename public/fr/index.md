@@ -26,3 +26,4 @@ Navigation française de la couche publique d’Ocean Fund.
 - [Portefeuille des index oceaniques](ocean-indexes-portfolio.md)
 - [Cadre des notations oceaniques](ocean-ratings-framework.md)
 - [Notations océaniques hebdomadaires](weekly-ocean-ratings.md)
+- [Atlas des expéditions océaniques](ocean-expeditions-atlas.md)
