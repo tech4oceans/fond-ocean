@@ -23,3 +23,5 @@ title: Публичный слой Ocean Fund
 - [Океанические фонды и донорская архитектура](ocean-foundations-and-donor-architecture.md)
 - [Маршруты сообществ океанических миров](ocean-worlds-community-routes.md)
 - [Карта климатических и экологических партнёров](climate-and-ecology-partner-map.md)
+- [Портфель океанических индексов](ocean-indexes-portfolio.md)
+- [Рамка океанических рейтингов](ocean-ratings-framework.md)

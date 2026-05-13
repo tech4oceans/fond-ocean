@@ -32,6 +32,8 @@ The following supporting asset should be present whenever the project is used fo
 - [Ocean Foundations and Donor Architecture](ocean-foundations-and-donor-architecture.md)
 - [Ocean Worlds Community Routes](ocean-worlds-community-routes.md)
 - [Climate and Ecology Partner Map](climate-and-ecology-partner-map.md)
+- [Ocean Indexes Portfolio](ocean-indexes-portfolio.md)
+- [Ocean Ratings Framework](ocean-ratings-framework.md)
 - [Public Mission Copy](mission-copy.md)
 - [Mission](../docs/mission.md)
 - [Roadmap](../docs/roadmap.md)

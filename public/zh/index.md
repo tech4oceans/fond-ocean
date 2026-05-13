@@ -23,3 +23,5 @@ Ocean Fund 公共层中文导航。
 - [海洋基金会与捐助架构](ocean-foundations-and-donor-architecture.md)
 - [海洋世界社群路线](ocean-worlds-community-routes.md)
 - [气候与生态合作伙伴地图](climate-and-ecology-partner-map.md)
+- [海洋指数组合](ocean-indexes-portfolio.md)
+- [海洋评级框架](ocean-ratings-framework.md)

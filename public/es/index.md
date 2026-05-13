@@ -23,3 +23,5 @@ Navegación en español de la capa pública de Ocean Fund.
 - [Fundaciones oceanicas y arquitectura donante](ocean-foundations-and-donor-architecture.md)
 - [Rutas comunitarias de mundos oceanicos](ocean-worlds-community-routes.md)
 - [Mapa de socios de clima y ecologia](climate-and-ecology-partner-map.md)
+- [Cartera de indices oceanicos](ocean-indexes-portfolio.md)
+- [Marco de calificaciones oceanicas](ocean-ratings-framework.md)

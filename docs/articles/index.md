@@ -50,6 +50,12 @@ Ocean Fund runs its public article layer in the six official languages of the Un
 - [Жак-Ив Кусто и публичный океан](jacques-cousteau-and-the-public-ocean.md)
 - [Жить с водой: плавучие города и океанический урбанизм](living-with-water-floating-cities-and-ocean-urbanism.md)
 
+## Wave 5
+
+- [Фонд «Океан» строит индексы, чтобы океан стал читаемым](ocean-fund-builds-indexes-to-make-the-ocean-readable.md)
+- [Плавучим городам нужны метрики, а не мифы](floating-cities-need-metrics-not-myths.md)
+- [От сенсоров к публичному океаническому интеллекту](from-sensors-to-public-ocean-intelligence.md)
+
 ## Note
 
 These articles are published as an early public Ocean Fund column for indexing, visibility, multilingual outreach, and GitHub Pages growth.

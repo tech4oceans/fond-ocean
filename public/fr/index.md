@@ -23,3 +23,5 @@ Navigation française de la couche publique d’Ocean Fund.
 - [Fondations oceaniques et architecture donatrice](ocean-foundations-and-donor-architecture.md)
 - [Routes communautaires des mondes oceaniques](ocean-worlds-community-routes.md)
 - [Carte des partenaires climat et ecologie](climate-and-ecology-partner-map.md)
+- [Portefeuille des index oceaniques](ocean-indexes-portfolio.md)
+- [Cadre des notations oceaniques](ocean-ratings-framework.md)

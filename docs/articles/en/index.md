@@ -29,3 +29,6 @@ English edition of the public Ocean Fund article column.
 - [Why open ocean data matters to society](why-open-ocean-data-matters.md)
 - [Jacques-Yves Cousteau and the Public Ocean](jacques-cousteau-and-the-public-ocean.md)
 - [Living with Water: Floating Cities and Ocean Urbanism](living-with-water-floating-cities-and-ocean-urbanism.md)
+- [Ocean Fund Builds Indexes to Make the Ocean Readable](ocean-fund-builds-indexes-to-make-the-ocean-readable.md)
+- [Floating Cities Need Metrics, Not Myths](floating-cities-need-metrics-not-myths.md)
+- [From Sensors to Public Ocean Intelligence](from-sensors-to-public-ocean-intelligence.md)

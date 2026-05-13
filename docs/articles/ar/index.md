@@ -29,3 +29,6 @@ title: مقالات Ocean Fund
 - [لماذا تعتبر بيانات المحيطات المفتوحة مهمة للمجتمع؟](why-open-ocean-data-matters.md)
 - [جاك ايف كوستو والمحيط العام](jacques-cousteau-and-the-public-ocean.md)
 - [العيش مع الماء: المدن العائمة والعمران المحيطي](living-with-water-floating-cities-and-ocean-urbanism.md)
+- [يبني صندوق اوشن فند مؤشرات لجعل المحيط قابلا للقراءة](ocean-fund-builds-indexes-to-make-the-ocean-readable.md)
+- [المدن العائمة تحتاج الى مقاييس لا الى اساطير](floating-cities-need-metrics-not-myths.md)
+- [من المجسات الى الذكاء المحيطي العام](from-sensors-to-public-ocean-intelligence.md)

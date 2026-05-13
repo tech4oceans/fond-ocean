@@ -29,3 +29,6 @@ Ocean Fund 公共文章栏目的中文版本。
 - [为什么开放海洋数据对社会很重要](why-open-ocean-data-matters.md)
 - [雅克-伊夫·库斯托与公共海洋](jacques-cousteau-and-the-public-ocean.md)
 - [与水共生：漂浮城市与海洋城市主义](living-with-water-floating-cities-and-ocean-urbanism.md)
+- [Ocean Fund 通过指数让海洋变得可读](ocean-fund-builds-indexes-to-make-the-ocean-readable.md)
+- [漂浮城市需要指标，而不是神话](floating-cities-need-metrics-not-myths.md)
+- [从传感器到公共海洋智能](from-sensors-to-public-ocean-intelligence.md)

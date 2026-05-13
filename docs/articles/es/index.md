@@ -29,3 +29,6 @@ Edición en español de la columna pública de artículos de Ocean Fund.
 - [Por qué los datos del océano abierto son importantes para la sociedad](why-open-ocean-data-matters.md)
 - [Jacques-Yves Cousteau y el oceano publico](jacques-cousteau-and-the-public-ocean.md)
 - [Vivir con el agua: ciudades flotantes y urbanismo oceanico](living-with-water-floating-cities-and-ocean-urbanism.md)
+- [Ocean Fund construye indices para hacer legible el oceano](ocean-fund-builds-indexes-to-make-the-ocean-readable.md)
+- [Las ciudades flotantes necesitan metricas, no mitos](floating-cities-need-metrics-not-myths.md)
+- [De los sensores a la inteligencia oceanica publica](from-sensors-to-public-ocean-intelligence.md)

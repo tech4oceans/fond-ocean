@@ -23,3 +23,5 @@ English navigation for the public Ocean Fund layer.
 - [Ocean Foundations and Donor Architecture](ocean-foundations-and-donor-architecture.md)
 - [Ocean Worlds Community Routes](ocean-worlds-community-routes.md)
 - [Climate and Ecology Partner Map](climate-and-ecology-partner-map.md)
+- [Ocean Indexes Portfolio](ocean-indexes-portfolio.md)
+- [Ocean Ratings Framework](ocean-ratings-framework.md)

@@ -29,3 +29,6 @@ title: "Статьи Ocean Fund (Русский)"
 - [Океаническим технологиям нужен понятный публичный язык](../ocean-technology-needs-public-language.md)
 - [Жак-Ив Кусто и публичный океан](../jacques-cousteau-and-the-public-ocean.md)
 - [Жить с водой: плавучие города и океанический урбанизм](../living-with-water-floating-cities-and-ocean-urbanism.md)
+- [Фонд «Океан» строит индексы, чтобы океан стал читаемым](../ocean-fund-builds-indexes-to-make-the-ocean-readable.md)
+- [Плавучим городам нужны метрики, а не мифы](../floating-cities-need-metrics-not-myths.md)
+- [От сенсоров к публичному океаническому интеллекту](../from-sensors-to-public-ocean-intelligence.md)
