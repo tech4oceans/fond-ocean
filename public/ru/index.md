@@ -19,3 +19,7 @@ title: Публичный слой Ocean Fund
 - [Атлас океанических сообществ](ocean-communities-atlas.md)
 - [Некоммерческие океанические фонды и модели пожертвований](ocean-nonprofit-giving-models.md)
 - [Атлас океанических медиа](ocean-media-atlas.md)
+- [Вотчлист океанических событий](ocean-events-watchlist.md)
+- [Океанические фонды и донорская архитектура](ocean-foundations-and-donor-architecture.md)
+- [Маршруты сообществ океанических миров](ocean-worlds-community-routes.md)
+- [Карта климатических и экологических партнёров](climate-and-ecology-partner-map.md)

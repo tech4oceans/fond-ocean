@@ -19,3 +19,7 @@ Navigation française de la couche publique d’Ocean Fund.
 - [Atlas des communautes oceaniques](ocean-communities-atlas.md)
 - [Modeles associatifs et de dons oceaniques](ocean-nonprofit-giving-models.md)
 - [Atlas des medias oceaniques](ocean-media-atlas.md)
+- [Liste de veille des evenements oceaniques](ocean-events-watchlist.md)
+- [Fondations oceaniques et architecture donatrice](ocean-foundations-and-donor-architecture.md)
+- [Routes communautaires des mondes oceaniques](ocean-worlds-community-routes.md)
+- [Carte des partenaires climat et ecologie](climate-and-ecology-partner-map.md)

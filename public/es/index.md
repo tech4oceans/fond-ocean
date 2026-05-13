@@ -19,3 +19,7 @@ Navegación en español de la capa pública de Ocean Fund.
 - [Atlas de comunidades oceanicas](ocean-communities-atlas.md)
 - [Modelos oceanicos de ONG y donacion](ocean-nonprofit-giving-models.md)
 - [Atlas de medios oceanicos](ocean-media-atlas.md)
+- [Lista de seguimiento de eventos oceanicos](ocean-events-watchlist.md)
+- [Fundaciones oceanicas y arquitectura donante](ocean-foundations-and-donor-architecture.md)
+- [Rutas comunitarias de mundos oceanicos](ocean-worlds-community-routes.md)
+- [Mapa de socios de clima y ecologia](climate-and-ecology-partner-map.md)

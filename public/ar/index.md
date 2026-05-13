@@ -19,3 +19,7 @@ title: الطبقة العامة لـ Ocean Fund
 - [اطلس المجتمعات المحيطية](ocean-communities-atlas.md)
 - [نماذج المنظمات غير الربحية والتبرع للمحيط](ocean-nonprofit-giving-models.md)
 - [اطلس الاعلام المحيطي](ocean-media-atlas.md)
+- [قائمة متابعة الفعاليات المحيطية](ocean-events-watchlist.md)
+- [المؤسسات المحيطية وبنية الجهات المانحة](ocean-foundations-and-donor-architecture.md)
+- [مسارات مجتمعات عوالم المحيطات](ocean-worlds-community-routes.md)
+- [خريطة شركاء المناخ والبيئة](climate-and-ecology-partner-map.md)
