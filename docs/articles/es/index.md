@@ -27,3 +27,5 @@ Edición en español de la columna pública de artículos de Ocean Fund.
 - [Por qué las conferencias oceánicas son importantes no sólo para establecer contactos](why-ocean-conferences-matter.md)
 - [Por qué las organizaciones oceánicas necesitan centros públicos abiertos](why-ocean-organizations-need-open-public-hubs.md)
 - [Por qué los datos del océano abierto son importantes para la sociedad](why-open-ocean-data-matters.md)
+- [Jacques-Yves Cousteau y el oceano publico](jacques-cousteau-and-the-public-ocean.md)
+- [Vivir con el agua: ciudades flotantes y urbanismo oceanico](living-with-water-floating-cities-and-ocean-urbanism.md)

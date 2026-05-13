@@ -27,3 +27,5 @@ title: "Статьи Ocean Fund (Русский)"
 - [Картировать морское дно значит картировать будущее](../mapping-the-seafloor-mapping-the-future.md)
 - [Морскому биоразнообразию нужны открытые реестры](../marine-biodiversity-needs-open-registries.md)
 - [Океаническим технологиям нужен понятный публичный язык](../ocean-technology-needs-public-language.md)
+- [Жак-Ив Кусто и публичный океан](../jacques-cousteau-and-the-public-ocean.md)
+- [Жить с водой: плавучие города и океанический урбанизм](../living-with-water-floating-cities-and-ocean-urbanism.md)

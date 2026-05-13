@@ -27,6 +27,7 @@ The following supporting asset should be present whenever the project is used fo
 - [Ocean Network Map](ocean-network-map.md)
 - [Ocean Communities Atlas](ocean-communities-atlas.md)
 - [Ocean Nonprofit and Giving Models](ocean-nonprofit-giving-models.md)
+- [Ocean Media Atlas](ocean-media-atlas.md)
 - [Public Mission Copy](mission-copy.md)
 - [Mission](../docs/mission.md)
 - [Roadmap](../docs/roadmap.md)

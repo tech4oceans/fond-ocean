@@ -45,6 +45,11 @@ Ocean Fund runs its public article layer in the six official languages of the Un
 - [Морскому биоразнообразию нужны открытые реестры](marine-biodiversity-needs-open-registries.md)
 - [Океаническим технологиям нужен понятный публичный язык](ocean-technology-needs-public-language.md)
 
+## Wave 4
+
+- [Жак-Ив Кусто и публичный океан](jacques-cousteau-and-the-public-ocean.md)
+- [Жить с водой: плавучие города и океанический урбанизм](living-with-water-floating-cities-and-ocean-urbanism.md)
+
 ## Note
 
 These articles are published as an early public Ocean Fund column for indexing, visibility, multilingual outreach, and GitHub Pages growth.

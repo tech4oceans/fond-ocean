@@ -18,3 +18,4 @@ Navegación en español de la capa pública de Ocean Fund.
 - [Mapa de la red oceanica](ocean-network-map.md)
 - [Atlas de comunidades oceanicas](ocean-communities-atlas.md)
 - [Modelos oceanicos de ONG y donacion](ocean-nonprofit-giving-models.md)
+- [Atlas de medios oceanicos](ocean-media-atlas.md)

@@ -27,3 +27,5 @@ English edition of the public Ocean Fund article column.
 - [Why ocean conferences are important not only for networking](why-ocean-conferences-matter.md)
 - [Why ocean organizations need open public hubs](why-ocean-organizations-need-open-public-hubs.md)
 - [Why open ocean data matters to society](why-open-ocean-data-matters.md)
+- [Jacques-Yves Cousteau and the Public Ocean](jacques-cousteau-and-the-public-ocean.md)
+- [Living with Water: Floating Cities and Ocean Urbanism](living-with-water-floating-cities-and-ocean-urbanism.md)

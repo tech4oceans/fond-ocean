@@ -18,3 +18,4 @@ title: الطبقة العامة لـ Ocean Fund
 - [خريطة الشبكة المحيطية](ocean-network-map.md)
 - [اطلس المجتمعات المحيطية](ocean-communities-atlas.md)
 - [نماذج المنظمات غير الربحية والتبرع للمحيط](ocean-nonprofit-giving-models.md)
+- [اطلس الاعلام المحيطي](ocean-media-atlas.md)

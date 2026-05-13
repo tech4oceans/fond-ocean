@@ -27,3 +27,5 @@ title: مقالات Ocean Fund
 - [لماذا تعد مؤتمرات المحيطات مهمة ليس فقط للتواصل](why-ocean-conferences-matter.md)
 - [لماذا تحتاج منظمات المحيطات إلى مراكز عامة مفتوحة؟](why-ocean-organizations-need-open-public-hubs.md)
 - [لماذا تعتبر بيانات المحيطات المفتوحة مهمة للمجتمع؟](why-open-ocean-data-matters.md)
+- [جاك ايف كوستو والمحيط العام](jacques-cousteau-and-the-public-ocean.md)
+- [العيش مع الماء: المدن العائمة والعمران المحيطي](living-with-water-floating-cities-and-ocean-urbanism.md)
