@@ -27,3 +27,4 @@ title: Публичный слой Ocean Fund
 - [Рамка океанических рейтингов](ocean-ratings-framework.md)
 - [Еженедельные океанические рейтинги](weekly-ocean-ratings.md)
 - [Атлас океанических экспедиций](ocean-expeditions-atlas.md)
+- [Карта океанической наблюдательной инфраструктуры](ocean-observing-infrastructure-map.md)

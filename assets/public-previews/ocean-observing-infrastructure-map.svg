@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Ocean observing infrastructure map preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05111f" />
+      <stop offset="55%" stop-color="#0b3954" />
+      <stop offset="100%" stop-color="#087e8b" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)" />
+  <circle cx="1070" cy="130" r="84" fill="#ffd166" fill-opacity="0.92" />
+  <path d="M0 430 C190 350 330 355 470 430 S760 505 930 430 1120 355 1280 430 L1280 640 L0 640 Z" fill="#8ecae6" fill-opacity="0.2" />
+  <circle cx="250" cy="200" r="28" fill="#caf0f8" fill-opacity="0.9" />
+  <circle cx="430" cy="150" r="24" fill="#caf0f8" fill-opacity="0.75" />
+  <circle cx="620" cy="230" r="32" fill="#caf0f8" fill-opacity="0.85" />
+  <circle cx="820" cy="160" r="22" fill="#caf0f8" fill-opacity="0.78" />
+  <circle cx="980" cy="250" r="30" fill="#caf0f8" fill-opacity="0.82" />
+  <circle cx="190" cy="315" r="20" fill="#caf0f8" fill-opacity="0.7" />
+  <circle cx="510" cy="320" r="18" fill="#caf0f8" fill-opacity="0.68" />
+  <circle cx="760" cy="330" r="20" fill="#caf0f8" fill-opacity="0.68" />
+  <circle cx="1040" cy="345" r="18" fill="#caf0f8" fill-opacity="0.68" />
+  <path d="M250 200 C320 170 360 165 430 150" fill="none" stroke="#ffd166" stroke-width="6" stroke-linecap="round" stroke-opacity="0.82" />
+  <path d="M430 150 C500 175 550 205 620 230" fill="none" stroke="#ffd166" stroke-width="6" stroke-linecap="round" stroke-opacity="0.82" />
+  <path d="M620 230 C700 200 760 175 820 160" fill="none" stroke="#ffd166" stroke-width="6" stroke-linecap="round" stroke-opacity="0.82" />
+  <path d="M820 160 C890 190 935 220 980 250" fill="none" stroke="#ffd166" stroke-width="6" stroke-linecap="round" stroke-opacity="0.82" />
+  <path d="M250 200 C215 245 200 280 190 315" fill="none" stroke="#90e0ef" stroke-width="4" stroke-linecap="round" stroke-opacity="0.75" />
+  <path d="M620 230 C575 270 545 295 510 320" fill="none" stroke="#90e0ef" stroke-width="4" stroke-linecap="round" stroke-opacity="0.75" />
+  <path d="M820 160 C800 230 782 282 760 330" fill="none" stroke="#90e0ef" stroke-width="4" stroke-linecap="round" stroke-opacity="0.75" />
+  <path d="M980 250 C1015 290 1030 320 1040 345" fill="none" stroke="#90e0ef" stroke-width="4" stroke-linecap="round" stroke-opacity="0.75" />
+</svg>

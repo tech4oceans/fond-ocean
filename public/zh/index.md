@@ -27,3 +27,4 @@ Ocean Fund 公共层中文导航。
 - [海洋评级框架](ocean-ratings-framework.md)
 - [每周海洋评级](weekly-ocean-ratings.md)
 - [海洋远征图谱](ocean-expeditions-atlas.md)
+- [海洋观测基础设施地图](ocean-observing-infrastructure-map.md)

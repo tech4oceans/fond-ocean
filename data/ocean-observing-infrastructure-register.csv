@@ -1,0 +1,8 @@
+infra_code,infra_name,kind,official_url,status
+GOOS,global-ocean-observing-system,global-observing-system,https://goosocean.org/what-we-do/,tracked
+ARGO,argo,global-float-network,https://www.aoml.noaa.gov/proj/argo/,tracked
+OOPS,oceanops,operations-and-metadata-hub,https://goosocean.org/who-we-are/observations-coordination-group/oceanops/,tracked
+CMEMS,copernicus-marine,marine-service,https://marine.copernicus.eu/about,tracked
+EMODNET,emodnet,marine-data-service,https://emodnet.ec.europa.eu/en/about_emodnet,tracked
+OBIS,ocean-biodiversity-information-system,biodiversity-data-system,https://obis.org/about/,tracked
+SB2030,seabed-2030,seafloor-mapping-mission,https://seabed2030.org/our-mission/,tracked
